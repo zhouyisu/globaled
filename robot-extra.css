@@ -1,0 +1,68 @@
+.red {
+  color: #ff5ca8;
+}
+.green {
+  color: #5aa800;
+}
+.blue {
+  color: #0098e9;
+}
+.yellow {
+  color: #f29318;
+}
+.violet {
+  color: #807ac8;
+}
+.brown {
+  color: #ac8254;
+}
+.orange {
+  color: #f97860;
+}
+.cyan {
+  color: #2da075;
+}
+
+/* 定义楷体环境，替代中文斜体*/
+@font-face {
+  font-family: 'Kaiti';
+  src:
+    local('Kaiti TC Regular'),
+    local(STKaiTi-TC-Regular),
+    local('Kaiti TC'),
+    local('Kaiti SC'),
+    local(STKaiti),
+    local(BiauKai),
+    local('標楷體'),
+    local(DFKaiShu-SB-Estd-BF),
+    local(Kaiti),
+    local(DFKai-SB)
+  ;
+}
+
+.kt {
+  font-family: 'Kaiti';
+}
+
+.title-slide h3,
+.remark-slide .title-slide h3 {
+  font-family: 'Roboto Condensed', 'Source Han Sans TC';
+  font-weight: 400;
+  padding-top: 15px;
+  font-size: 28px;
+}
+
+body {
+  font-family: 'Roboto Condensed', 'Source Han Sans TC', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight: 400;
+  color: #222;
+}
+.remark-slide-content {
+  font-size: 1.38em;
+  padding: .25em 3.5em .25em 4em;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', 'Source Han Sans TC', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight: 700;
+  color: #222;
+}

@@ -1,0 +1,333 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 01"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/08/25"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Learning Objective
+- Students will .orange[describe] basic knowledge of major issues and topics surrounding globalization and education in both industrialized and developing countries.
+
+--
+
+- Students will be able to .orange[identify] how variables such as class, race, ethnicity, gender, (im)migration, state, NGO, transnational entity, policy, etc. all play a role in the production of educational outcomes and to challenge dominant assumptions of globalization both in specific national settings and tans-nationally
+
+--
+
+- Students will critically .orange[evaluate] global issues of diversity, multiculturalism, decolonization, gender equity, and social justice that underline the common good of education.
+
+---
+# Learning Objective (cont...)
+- Students will .orange[articulate] possible ways to think about globalization, its trends, issues, and impacts with relation to education and the fundamental task of preparing 21st-century citizens.
+
+--
+
+- Students will .orange[critique] dominant modes of international comparison, competition, as well as convergence and divergence of educational practices.
+
+--
+
+**Bottom line**: Think globally and act locally.
+
+---
+# Schedule
+Weekly schedule can be viewed here:
+
+- (https://goo.gl/JFnr58)
+- the .red[.ics] file can be opened by most calendar software including your smartphone
+
+
+---
+# Assessment
+
+Your grade consists 4 components:
+- Attendance (15%)
+- Group presentation (30%)
+- Quiz (20%)
+- Term paper (35%)
+
+All the points from the 4 components will add up. The university has a metric to convert it to grade (F-A).
+
+--
+
+Read .red[course syllabus] for details.
+
+## Presentation group
+
+Form your 3-member presentation group. Email the list and presentation topic to Ms. Tong or Ms. Lam by this Friday (Aug 25).
+
+
+---
+# Globalization, a short genealogy
+
+---
+## Globalization is a relatively new English word
+
+It was first used by the Scottish educator .yellow[William Boyd]. His book in 1930 titled _The history of western education_, in which he denotes a holistic view of education:
+
+--
+>Wholeness, ..., integration, globalization ... would seem to be the keywords of the new education view of mind: suggesting negatively, antagonism to any conception of human experience which over-emphasizes the constituent atoms, parts, elements (Boyd & MacKenzie, 1930, p.350).
+
+--
+
+Boyd was referring to a popular idea in education psychology at that time, which refers to the ".green[globalization function stage]" in a children's development highlighted ans served as a new concept in the early 20th century ".green[new education]" movement. 
+
+--
+
+This term refers to a pedagogical system 教學體系 for teaching children to read. But as we now never used the term like this, the education concept died out fairly quickly.
+
+---
+
+## Globalization in today's context
+
+According to Manfred Steger (p.1):
+> A .violet[complex] and .violet[uneven] .red[dynamic] linking the .cyan[local] (and national and regional) to the .cyan[global], as well as the West to the East, and the North to the South. 
+ 
+--
+
+According to George Rizter & Paul Dean:
+>globalization is a .violet[transplanetary] .red[process] or set of .red[processes] involving increasing .red[liquidity] and the growing multidirectional .red[flows] of people, objects, places, and information as well as the .red[structures] they encounter and create that are .red[barriers] to, or .red[expedite], those flows...
+
+.footnote[.green[trans·planetary]: 跨越行星]
+
+---
+
+## Keywords
+
+- Complex 複雜的
+
+--
+- Uneven 不均衡的
+
+--
+- Dynamic / Process 動態過程
+
+--
+- Local & global 在地的與全球的; West & East; South & North
+
+--
+- Liquid & flows 流動的
+
+--
+- Structure 結構: barrier or expedite 阻礙或加速
+
+
+---
+# Exploring the definition
+
+- What types of objects, people, and information might be involved?
+--
+
+- What types of .orange[structures] could help or hinder their flows?
+--
+
+- What answers does this definition suggest? Is it .orange[new]? Has it .orange[happened]? Is it .orange[inevitable]?
+
+---
+class: middle, center
+
+# What is the relevance to me?
+
+---
+
+background-image: url(../pic/iphone1.png)
+background-size: contain
+
+---
+![:wscale 80%](./pic/iphone.png)
+
+.footnote[
+Image credit: [Business Insider](http://www.businessinsider.com/where-iphone-parts-come-from-2016-4)]
+
+---
+## Example 1: What makes iPhone a successful globalization case?
+
+Global manufacturing networks:
+
+--
+- Technical know-how
+- Process lines
+- Natural resources (e.g. rare earth elements 稀土)
+- Human labor
+- Management
+- Design
+- Marketing
+
+--
+
+These things are not simply sitting there idle. They are constantly changing & self-reinforcing:
+
+--
+- What display does Apple use?
+- Who is suppyling Apple with the glass?
+
+
+---
+## Uneveness of globalization
+
+![](./pic/iphone2.png)
+
+.footnote[
+Image credit: [9to5mac](https://9to5mac.com/2016/09/20/649-iphone-7-estimated-to-cost-apple-220-heres-the-component-breakdown/)]
+
+--
+
+iPhone 7 32GB version retails for .violet[US$ 649].
+
+
+---
+## Example 2: Macao's secret to success
+![](./pic/macao2.jpg)
+
+.footnote[
+Image credit: [SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/2151036/macau-las-vegas-asia-trades-casino-chips-microchips)]
+
+---
+## Where do tourists come from?
+
+--
+
+![](./pic/macao3.jpg)
+
+.footnote[
+Image credit: [](dataplus.macaotourism.gov.mo)]
+
+---
+## Macao's success depends on global factors
+
+--
+
+- Low competition in the region (legal environment)
+--
+
+- Easy flow of currency in & out (financial structures)
+--
+
+- Cheap labor cost (thinking about who work in casinos, hotels, resturarnts.) 
+
+---
+## What external factors could affect Macao?
+
+![](./pic/macao-japan.jpg)
+
+.footnote[
+Image credit: [SCMP](https://www.scmp.com/news/asia/east-asia/article/2151618/japan-dreams-jackpot-legal-casinos-critics-warn-cash-grab-will)]
+
+---
+.pull-left[
+![](./pic/macao-natgeo2018.jpg)
+
+.footnote[
+Image credit: [Paul Tsui/National Geography](https://travel.nationalgeographic.com/photographer-of-the-year-2018/gallery/peoples-choice-all/9/)]
+]
+
+--
+
+.pull-right[
+"A quiet street in macau. Modernization around is quickly changing the city."
+
+"A scene right out of Elysium"
+]
+
+---
+class: inverse, middle, center
+
+# OK I get it. But does this have to do with education?
+
+
+---
+
+## Various definitions of education
+
+Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits..red[<sup>1</sup>]
+
+--
+
+If you learn without thinking about what you have learned, you will be lost. If you think without learning, however, you will fall into danger .kt[學而不思則罔，思而不學則殆。] (*Analectics* 2.15)
+- "Learning is internalizing the actions, thoughts, and feelings of those who are virtuous" .red[<sup>2</sup>]
+
+.footnote[
+[1] https://en.wikipedia.org/wiki/Education
+
+[2] Van Norden, B. W. (p.29, 2011). *Introduction to classical Chinese philosophy*. Hackett Publishing.
+]
+
+---
+# We attach different meanings and aims to education
+
+Some say education is a about skills (hard skills or cognitive skills)
+
+Some say education is about morality.
+
+Some say education is about emotion.
+
+---
+# A different take on education
+
+According to Andrew Abbott, .red[_education is a way of having more experience in a given period_]
+
+--
+- the ability to make more and more complex, more and more profound and extensive, the meanings that we attach to events and phenomena
+
+--
+- to be educated is to have the habit of finding many and diverse new meanings to attach to whatever events or phenomena we examine
+
+--
+>But the more important issue is the question of why attaching endless new meanings to things should be in itself a good thing? The answer is this: by attaching more meanings to things, by bringing more of experience under our current range of meaning and extending our range to embrace more things in more complex and abstract or sometimes ambiguous ways, we in effect enable ourselves to experience more of life in a given present, a given now.
+
+---
+class: center, middle
+
+### "Education is good in itself because it expands the range of your experience, both .cyan[temporally] and .cyan[spatially]. Education means figuring out how to arrange the .cyan[finite] things you can know, their varying levels of abstraction and detail, their mix of skill and data, fact and theory, so as to maximize the potential array of meaning that you can experience in the now."
+
+.footnote[
+temporally: 時間上; spatially: 空間上; finite: 有限的
+]
+---
+Whatever your temporal and spatial present, education lets you live more within it, by bringing more meanings into play, by creating a dialogue of complexity and simplification, of distinction and analogy, that transforms your immediate world and reaches beyond it.
+
+--
+
+But in the mind of a thoughtful person, education is a habit that expands experience so as to overcome that provinciality by increasing ties between your locality and other human meanings. Sometimes abstraction is the mechanism for this, sometimes identification, sometimes grand simplification, sometimes the link goes through the tiniest of similar factual details, such as a similar eye color or a shared hometown.
+
+--
+
+This “education,” this flash of enlightenment, is the emergence of the habit of looking for new meanings, of seeking out new connections, of investing experience with complexity or extension that makes it richer and longer, even though it remains anchored in some local bit of both social space and social time.
+
+---
+# What does this version of education has to do with globalization?
+
+---
+background-image: url(https://mfas3.s3.amazonaws.com/objects/SC226475.jpg)
+background-size: contain
+
+class: center, top
+## The Museum Argument
+
+.footnote[
+Image credit: [Paul Gauguin, 1897, Musiem of Fine Arts Boston](https://www.mfa.org/collections/object/where-do-we-come-from-what-are-we-where-are-we-going-32558)]
+
+---
+
+Yes, it's easy enough to look at the painting and to come up with things to think about it. But how much richer they are when you know already the many different traditions of imagining the visual world, when you can understand the detailed references the painter made to those traditions, when your immediate knowledge of the painting's social and cultural context makes you literally see dozens of things that aren't there if you don't know those contexts. It's the same argument. The experience becomes “bigger” because you are educated. Not merely in the sense that you can look at the painting longer without being bored, but also in that within a single look you will see more. And note that education doesn't lie simply in knowing the whole of the dead list of facts and contexts of who taught whom and which style was which, but rather in taking such facts as you do know and playing with them and the painting.
+
+Not because that educated museum-going is better museum-going. That is, because you have made the event more complex doesn't mean you have to lose the overarching sense of the simpler version. But it is true that you can't fill your brain endlessly—it has finite power. And so one of the crucial decisions you make about your education is how to balance breadth and depth. Because breadth too constitutes a way of expanding your experience. Complexifying is not the only way of making meaning.
+
+---
+That is, because you have made the event more complex doesn't mean you have to lose the overarching sense of the simpler version. But it is true that you can't fill your brain endlessly—it has finite power. And so one of the crucial decisions you make about your education is how to balance breadth and depth. Because breadth too constitutes a way of expanding your experience. Complexifying is not the only way of making meaning.
+
+
+
