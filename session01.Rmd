@@ -2,7 +2,7 @@
 title: "Education & Globalization"
 subtitle: "Session 01"
 author: "Dr. Zhou Yisu 周憶粟"
-date: "2018/08/25"
+date: "2018/08/23"
 output:
   xaringan::moon_reader:
     css: [robot, robot-fonts, robot-extra.css]
