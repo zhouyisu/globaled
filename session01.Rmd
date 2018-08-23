@@ -70,9 +70,20 @@ Read .red[course syllabus] for details.
 
 ---
 
-## Presentation group
+## Other issues
 
 Form your 4-member presentation group. Email the list and presentation topic to Ms. Tong or Ms. Lam by week 2 (Aug 30).
+
+--
+
+We will setup a WeChat help group for instant help.
+
+--
+
+Do bring your laptop or tablet. Might be easier for typing?
+
+--
+### .yellow[QUESTIONS?]
 
 ---
 # Globalization, a short genealogy
@@ -170,13 +181,13 @@ Image credit: [Business Insider](http://www.businessinsider.com/where-iphone-par
 Global manufacturing networks:
 
 --
-- Technical know-how
-- Process lines
+- Technical know-how 專有技術
+- Process lines 生產線
 - Natural resources (e.g. rare earth elements 稀土)
-- Human labor
-- Management
-- Design
-- Marketing
+- Human labor 勞動力
+- Management 管理
+- Design 設計
+- Marketing 市場營銷
 
 --
 
@@ -213,9 +224,10 @@ Image credit: [SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/artic
 --
 
 ![](./pic/macao3.jpg)
+Sheldon Adelson quote: ".orange[three billion (consumers) within a five-and-a-half- hour flight]"
 
 .footnote[
-Image credit: [](https//:dataplus.macaotourism.gov.mo)]
+Image credit: https://dataplus.macaotourism.gov.mo]
 
 ---
 ### Macao's success depends on several global factors
@@ -232,6 +244,8 @@ Image credit: [](https//:dataplus.macaotourism.gov.mo)]
 
 ---
 ## What external factors could affect Macao?
+
+--
 ### Competition
 ![](./pic/macao-japan.jpg)
 
@@ -257,6 +271,11 @@ Image credit: [Paul Tsui/National Geography](https://travel.nationalgeographic.c
 [Elysium](https://www.imdb.com/title/tt1535108/) is a 2013 sci-fi film set in a hyper inequal earth.
 ]
 
+---
+### Resource on this topic
+
+SCMP's recent report: [Macau: The incredible poverty at the heart of world's richest place](https://www.scmp.com/week-asia/society/article/2160251/macau-incredible-poverty-heart-worlds-richest-place)
+- [Chinese translation](https://www.facebook.com/macauconcealers/posts/1798244593577967)
 ---
 class: inverse, middle, center
 
@@ -421,6 +440,17 @@ background-size: contain
 - What made this painting famous?
 	+ The saturated color
 	+ Critiques say it has visual similarity of music
+
+---
+background-image: url(https://mfas3.s3.amazonaws.com/objects/SC226475.jpg)
+background-size: contain
+
+class: center, top
+## Education extends our being 
+
+.footnote[
+Image credit: [Paul Gauguin 保羅·高更, 1897, Museum of Fine Arts Boston](https://www.mfa.org/collections/object/where-do-we-come-from-what-are-we-where-are-we-going-32558)]
+
 
 ---
 ![](./pic/ykid_20180817102838.jpg)
