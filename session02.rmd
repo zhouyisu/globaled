@@ -414,7 +414,7 @@ background-size: contain
 
 New structures that expedite flows of things:
 - How does Amazon's _print-on-demand_ work?: https://www.quora.com/How-does-Amazons-on-demand-book-printing-work
-- Just-in-time production: https://theleadershipnetwork.com/article/supply-chain-management/zara-uniqlo-supply-chain
+- Just-in-time production: https://www.forbes.com/sites/gregpetro/2012/10/25/the-future-of-fashion-retailing-the-zara-approach-part-2-of-3/
 - What is long tail?: http://www.longtail.com/about.html
 
 The metaphor theory is from: Ritzer & Dean Chapter 1
