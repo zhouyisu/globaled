@@ -5,6 +5,7 @@ Course slides are written in rmarkdown (`.rmd` file). It can be either viewed on
 To view the slides as they were presented in class, visit:
 - 8/23 https://zhouyisu.github.io/globaled/session01
 - 8/27 https://zhouyisu.github.io/globaled/session02
+- 8/30 https://zhouyisu.github.io/globaled/session03
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
