@@ -1,0 +1,480 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 04"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/09/03"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Globalization and Related Processes
+## Aims
+
+To understand other key concepts that describe the processes and structures involved in historical and contemporary realities
+
+To explore the relationships between these and the critiques made of them
+
+To explore how these relate to or overlap with processes and structures of globalization
+
+---
+
+## The world we live in today inhereted much legacy from the past:
+
+.violet[network] (e.g. Portuguese language linkage, English as medium of instruction)
+
+.violet[habit/tradition] (e.g. type of festival we celebrate)
+
+.violet[power relationship] (e.g. West v.s. the Rest)
+
+---
+
+## Processes that shaped the world in the past & future
+
+We are focusing on globalization, which is related to .orange[other processes] that affected large parts of the world in the past and still do today.
+
+Six major concepts can be identified to describe some of the these:
+
+- Imperialism 帝國主義
+- Colonialism 殖民主義
+- Development 發展
+- Westernization 西方化
+- Easternization 東方化
+- Americanization 美國化
+
+---
+
+## Mitsuru Adachi's baseball manga 安達充
+
+.pull-left[ ![](https://upload.wikimedia.org/wikipedia/en/4/45/Touch-Tankobon-vol1-AdachiMitsuru.jpg)]
+
+.pull-right[ ![](https://upload.wikimedia.org/wikipedia/en/8/84/H2_volume_1_cover.jpg)]
+
+---
+
+background-image: url(https://cdn.hk01.com/di/media/images/1706858/org/d1c2c6781e2e0255d0cdb8daf8223abd.jpg/rS9JImGGWItibcmAc38CqFDjkAnmggSHjXVfw411X8M?v=w1920r16_9)
+background-size: contain
+
+### Japanese High School Baseball Championship 
+
+---
+
+background-image: url(http://img5.cna.com.tw/www/WebPhotos/800/20180829/15297830.jpg)
+background-size: contain
+
+### .yellow[2018's underdog: 秋田県立金足農業高等学校]
+
+---
+### 2018 is special for JHSBC because
+
+It's the 100th anniversary of the game (est. 1915)
+
+Almost 3900 high schools participated in the compeititon.
+
+The final 55 teams, representing each county, appeared in the national tournament. 
+
+Highlights of the team https://www.youtube.com/watch?v=i5dKrIDEmu4
+
+---
+## Baseball is important in modern Japanese history
+
+First introduced by an American teacher Horace Wilson in .violet[1872]. Just 4 years after the .violet[Meiji Restoration] (明治維新) started. It embodies a foreign, modern, and civilized sports.
+
+In 1900s, baseball became a national sports. At the same time:
+- 1894-1895 First Sino-Japanese War (甲午戰爭): Qing dynasty ceded Taiwan to Japan
+- 1904-1905 Russo-Japanese War (日俄戰爭): Russia recognizes Korea as part of the Japanese sphere of influence and evacuated Manchuria 满洲
+- 1910 Japan-Korea Treaty: Japan annex Korea completely. 
+
+As a results of the war, more than 100,000 Japanese migrated from Japan to Taiwan, Manchuria, Korea. They built schools mostly for Japanese settlers. 
+
+---
+## 11th Summer Koshien
+
+On August 15th, 1926, then Japanese Prime Minister Wakatsuki Reijiro 若槻禮次郞 attend the 2nd day of competition and announced through the PA that:
+
+>.green[原文:] 剛健的精神存在於健康的體魄之中，國民體育之進步乃國家向上之要素。諸君通過公平競賽，促使國民體育進步，實爲無比幸福之事。祝願諸君之健鬥！
+
+>.green[Translation:] The spirit of being healthy exists in a healthyy body. The progress of national sports is an element of our nation's uplifting. I wish you all can promote the advancement of national sports through fair competition, which is really a matter of happiness. Wish you all engage in hard and healthy fight!
+
+---
+
+background-image: url(./pic/Wakatsuki.jpg)
+background-size: contain
+
+---
+
+On the court, there are two teams competing: Osaka HS vs. Dalian Commercial High 大連商業高中 (3-2, DL made 4 consecutive appearance in the national tournament). DL team mostly made of Japanese settlers but was cheerled by Chinese songs.
+
+Dalian Commercial High school was among the five highschools from Manchuria:
+- 青島中學 Tsingtao high school
+- 奉天商業中學 Fengtian Commercial high school
+- 天津商業高中 Tianjin Commercial hign school
+- 南滿工業中學 Southern-Manchuria Industrial high school
+
+According to historian Kawanishi Reiko, having a team from the Japanese colony has much symbolic meaning: 
+- Bid for political support of the sports from the Japanese empire.
+- Symbolize the Japanese spirit to domestic & colony audience:
+    + Build your body and hone the will (強健體魄、磨練意志).
+    + Strengthen traditional Bushido (武士道) value: Loyalty & sacrifice (忠勇犧牲) 
+- Maintaining the emotional connection. Softens the relationship between colonies and Japan mainland.
+
+---
+background-image: url(./pic/dalian-commercial.jpg)
+background-size: contain
+
+### Report from Asahi News
+
+---
+
+background-image: url(./pic/team.jpg)
+background-size: contain
+
+---
+
+background-image: url(https://lh5.googleusercontent.com/-FqCUNi5hS_w/UyPukR-ejoI/AAAAAAAAGHo/cKsrWDUW5Pg/w958-h539-no/6708c73b-dff1-43bc-9eff-5701a866c485.jpg)
+background-size: contain
+
+### 1931 嘉義農林學校 (2014 movie Kano by 魏德聖)
+
+---
+
+background-image: url(./pic/kano.jpg)
+background-size: contain
+
+---
+
+## Imperialism
+
+.violet[Describes the various methods employed by one country to gain control of another country or geographical area, and then to exercise control - especially political, economic, and territorial - over that country or (geographical area) or over many other countries.]
+
+
+Term originated from development of Roman Empire, indicating political forms that had characteristics of Roman rule (e.g. powerful leader, the ruled people & land).
+
+Imperialism encompass a range of .green[controls]:
+- .green[Economic imperialism]: e.g. British East India Company 
+- .green[Political imperialism]: e.g. Soviet Union with its satellite states
+- .green[Cultural imperialism]: e.g.  US domination of film, TV, and print; Western textbook.
+
+Association between rulership over geographic spaces and people who lived there lead to many globalization terms of today (trade, migration, communication, etc) because of the past imperial power. 
+
+
+---
+
+<!-- ### Example: immigration network in UK
+.pull-left[![](http://webarchive.nationalarchives.gov.uk/20160105222714im_/http://www.ons.gov.uk/ons/resources/wavesofmigrationfinal_tcm77-346356.png)]
+
+.pull-right[.footnote[Source: [The National Archives](http://webarchive.nationalarchives.gov.uk/20160105222714/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/immigration-patterns-and-characteristics-of-non-uk-born-population-groups-in-england-and-wales/non-uk-born-census-populations-1951---2011---full-infographic.html)]]
+
+--- -->
+
+## Imperial powers fight for...
+
+Ever expanding .green[territorial control] (i.e. 19th century was among Germany, Italy, Belgium, Great Britain, France, and USA fight over Africa)
+
+.green[Political control] (declined significantly after the demise of the Soviet Uninion in 1991)
+
+.green[Economic control] (remains powerful)
+- Resources for capitalistic production
+- Market for new products
+
+
+---
+
+## What role does education serve?
+
+Imperialism often involves ".violet[the policy of extending the rule or authority of an empire or nation over foreign countries]" (Wade Davis). Education is seen as an important means to .red[enculturate] the people originally live there.
+
+Its pedagogy and curriculum often involve:
+
+- creating the superior and the inferior
+
+- create an authority that the "learning" people could not challenge
+
+- generation of humiliation, a sense of worthlessness
+
+.footnote[enculturate: 濡化 the process by which an individual learns the traditional content of a culture and assimilates its practices and values.]
+
+The strong-handed territorial control always needs the soft-handed education to "smooth things out". 
+- Toward the ruled people
+- Toward own citizen
+
+---
+
+## Colonialism
+
+.violet[The creation by the colonial powers in the country or geographical area that has been colonized, of an administrative apparatus to run its internal affairs, including its settlements.]
+
+
+Often used inter-changeable with imperialism but specifically focus on political control, often involving the development of settlements in the territory for the purpose of economic exploitation<sup>.red[1]</sup>.
+
+.footnote[[1] In the extreme form of imperialism, controlling another country without the creation of colonies is possible. See David Harvey (2003)]
+
+
+Imperialism is more about economic control; colonialism is more about political control. 
+
+
+---
+
+## Colonialism in modern history
+
+
+.orange[15th century]: European countries (especially Spain and Portugal) creating colonies in Africa and Asia.
+
+
+.orange[1820- WW I]: European countries + USA, Japan 
+
+
+Most former colonies remain colonized until 20th century after a wave of .orange[decolonization] 去殖民化 movement:
+
+- revealing and dismantling colonialist power.
+- increased in 20th century, especially post WW II.
+
+
+---
+
+### Japanization in Taiwan & Korea
+
+
+![](http://4.bp.blogspot.com/-dYD8Nn-u8xY/VGs20bjbeaI/AAAAAAAAY5g/6hma-1NWjmM/s1600/1118CG04%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%B0%8D%E5%8F%B0%E3%80%8C%E7%9A%87%E6%B0%91%E5%8C%96%E9%81%8B%E5%8B%95%E3%80%8D.jpg)
+
+---
+
+<!-- ## Colonialism in education
+Brazilian educator Paulo Freire is one of the leading figure in .red[critical pedagogy], a means by which he uses to demystify colonial power. 
+
+Education should be a means through which student gain liberation; rather it is often used to oppress student.
+
+His work helped learner to gain consciousness about the power relationship of knowledge. About the nature of learning is not simply transfer of hard knowledge.
+
+### The banking model of education
+
+"Education", he argued, had become "an act of .violet[depositing], in which the students are the depositories and the teacher is the depositor. Instead of .violet[communicating], the teacher issues communiques and makes deposits which the students patiently receive, memorize, and repeat."
+
+--- -->
+
+## Story 2. Rendille warrior in Kaisut, Kenya
+
+![](https://img-fotki.yandex.ru/get/50666/97833783.1325/0_1998d6_2f2cadb0_XXXL.jpg)
+
+.footnote[Image credit: Jimmy Nelson
+]
+
+---
+
+background-image: url(http://4.bp.blogspot.com/-HuecZEH1WW0/UsCZ636wjPI/AAAAAAAABXA/caVWdInA7t8/s1600/sb7.jpg)
+background-size: contain
+
+
+---
+
+background-image: url(http://www.dmitrimarkine.com/photography/pictures/School-in-Kenya-National-Geographic.jpg)
+background-size: contain
+
+---
+
+background-image: url(http://www.thestar.com/content/dam/thestar/news/world/2015/09/21/worlds-large-refugee-camp-in-kenya-could-be-the-future/dadaab3.jpg)
+background-size: contain
+
+---
+
+## In the Kenya case
+
+Its people were transformed from pastoral nomads 遊牧民族 to modern day citizens
+
+They no longer herd cattle, raid enemy tribes but attend western-style schools. From a modern development perspective:
+
+- GDP per capita 人均國民收入 goes up
+- urbanization rate 城市化率 goes up
+- literacy rate 識字率 goes up
+- quality of life??
+
+Many of them remains unemployed (Kenya's unemployment rate is about .orange[40%]). Young men drifted into the slums of Nairobi trying to find a life in cash economy
+
+---
+
+## The cult of modernity 現代性? 
+
+Instead of indoctrinating people to converted to any religion, it is now the conversion to modernity:
+
+
+- Modern knowledge, skills, academics
+
+- Pathway toward (un)employment
+
+
+Many people from traditional society, they aspire to be a world of affluence in which they will never find a place. they tend to find themselves at the lowest rung of the economic ladder that goes nowhere: .red[disaffected, alienated, taught to be a failure, unemployable]
+
+---
+
+## Critique of this approach
+
+--
+
+Wade Davis:
+> Culture is not trivial. culture is not the songs we sing, the clothes we wear, the prayer we utter, even the cosmology we celebrate. .violet[Ultimately culture is about a body of moral and ethical values that every culture places around each individual to keep at bay the barbaric heart that history teaches us that lies within each of us.] It's culture that allows us to make sense out of sensation to find order and meaning in the universe.
+
+.footnote[trivial: 微不足道
+
+Source for the quotation: https://www.youtube.com/watch?v=hwk2w-9aekA]
+
+
+---
+
+## Significance of story 2
+
+Development/modernization paradigm brings us .violet[improvement of living standard, abundance of goods], but not necessarily .violet[meaning, or stability, or sense of belonging]. 
+
+
+In fact, many believe that modernization process leads to the "lost of the traditional value". Such thoughts pave way for the revival of all sorts of ".violet[traditions]".
+
+---
+
+## Tradition worship 國學熱
+
+![](./pic/guoxue.jpg)
+
+---
+
+## It's complicated: Are traditional societies ideal?
+
+.pull-left[![wscale: 50%](./pic/lanzhou1.jpg)]
+
+.pull-right[![wscale: 50%](./pic/lanzhou2.jpg)]
+
+.pull-left[![wscale: 50%](./pic/lanzhou4.jpg)]
+
+.pull-right[![wscale: 50%](./pic/lanzhou5.jpg)]
+
+---
+
+## Development
+
+.violet[A "project" primarily concerned with the economic development of specific nations, usually those that were not regarded as sufficiently developed economically.]
+
+- Mainly post WW II, elitist from North to South (i.e. from more developed countries to less developed countries)
+- Assumed North the model for development
+- Nation-state as key unit (i.e. rational planning, industrial policies, investment in human capital, etc)
+- Motivated mainly by Western powers to help some weak nations, fear of spread of communism
+- Project has failed (reasons in the next slides)
+
+---
+
+## The development "project"
+
+Not just an economic project but "a method of rule" <sup>.red[2]</sup>
+
+Involved financial aid, sometimes technological, military, and food – leading to dependency
+
+Poorest nations mainly ignored. The North shaped the South according to its own will. 
+
+
+.footnote[
+[2] McMichael, Philip. 2008. _Development and Social Change: A Global Perspective_. 4th ed. Thousand Oaks, CA: Pine Forge Press.]
+
+---
+
+# Other important theories
+.orange[Dependency theory] <sup>.red[3]</sup>:
+- Development project contributed to decline of independence in poor nations and reliance on North
+- Underdevelopment is part of development project, which in turn brings greater impoverishment
+- Capitalism is cause of development and underdevelopment
+- Less-developed countries could not follow the path of today's developed countries.
+
+.footnote[
+[3] Frank, Andre Gunder. 1969. "The Development of Underdevelopment." _Monthly Review 18_ (4).
+
+]
+
+
+---
+
+## Other important theories
+.orange[World-system theory] <sup>.red[4]</sup>:
+- The world is divided between .violet[periphery 邊緣] nation-states dependent on/exploited by .violet[core 核心] nation-states
+- To be able to maintain cosmopolitan centers (i.e. big cities around the world), the periphery must exist to provide cheap labor, agricultural products, energy resources, etc.
+  + Core-periphery not only exist between countries, also within country
+
+.footnote[
+[4] Wallerstein, Immanuel. 1974. _The Modern World-System: Capitalist Agriculture and the Origins of the European World-Economy in the 16th Century_. New York: Academic Press.
+]
+
+---
+
+## Toward a world culture in education?
+.orange[World Culture Theory] <sup>.red[5]</sup> tries to explain why modern education looks very much each other (in terms of years of schooling, curriculum, values being taught). It argues for a world culture modern when nations develop, they will embrace concepts such as equality, socioeconomic progress, and human development. They are the expansion of these modes of thoughts are rationalized, articulated and highly consensual.
+
+.footnote[
+[5] Meyer, J. W., Boli, J., Thomas, G. M., and Ramirez, F. O. (1997).  World Society and the Nation-State, _American Journal of Sociology, 103_ (1), 144--181.
+]
+
+---
+
+background-image: url(https://www.sup.org/img/covers/med_large/pid_18531.jpg)
+background-size: contain
+
+---
+
+## Westernization
+
+.violet[Economic, political and cultural influence of the West on 
+the rest of the world.]
+- includes .violet[Americanization].
+- is only a "one-way" 單向 flow compared to globalization.
+- as well as political and economic systems, includes exports such as technologies, languages, laws, lifestyle, and food.
+
+Now often seen to have negative connotations
+
+Implies homogenization but ignores differences within West and between West and rest
+
+- e.g. democracy and market economies experienced differently in Pakistan and China.
+
+Ignores importance of links between non-Western countries 
+
+.footnote[ho·mog·e·ni·za·tion 均質化、均勻化]
+
+---
+
+## Easternization
+
+.violet[Economic and cultural influences of the East on the West.]
+
+- Westernization and Americanization too narrow.
+- Linked to internal factors in West and the flow of various influences from the East to West.
+    + Eastern spirituality (i.e. yoga, Zen)
+    + Ethnic restaurants and cuisines, including vegetarianism
+    + Manufacturing imports
+    + Management techniques and working methods
+- Growing with power of China.
+
+---
+
+## Influence of China
+
+![](./pic/textbookuk.png)
+
+.footnote[Source: (https://www.theatlantic.com/education/archive/2017/03/british-schools-hope-to-improve-performance-with-chinese-textbooks/520206/)]
+
+---
+
+## Resources
+- Complete theory: Ritzer & Dean Chapter 3
+- Theories of imperialism
+  + Hardt, Michael, and Antonio Negri. 2000. _Empire_. Cambridge, MA: Harvard University Press.
+  + Harvey, David. 2003. _The New Imperialism_. Oxford: Oxford University Press.
+- Fareed Zakaria (2011) argues "post-American age" involves "the rise of everyone else" rather than US decline: (https://www.youtube.com/watch?v=Zs4zw1O_MYE) The decline makes possible a global .violet[multipolarity] 多極 and global emancipation from American hegemony
+- Gideon Rachman (2017) _EASTERNIZATION: Asia’s Rise and America’s Decline: From Obama to Trump and Beyond_ 
+- [帝國與野球：甲子園的暗面](https://www.thepaper.cn/newsDetail_forward_2381599) (The Empire and the Baseball: the Dark side of Koshien)
+- [Is traditional China an empire? by Mark Elliot](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664297648&idx=1&sn=dd9f3a246631c2503f6ae8c12a2b97e9) (written in Chinese) 
+
+
