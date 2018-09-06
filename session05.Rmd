@@ -1,0 +1,448 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 05"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/09/06"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: ["wscale.js"]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Age of the Nation
+## Aims
+
+To explore the political structures involved in globalization.
+
+To understand the historical development of nation-states, changes in relations and power.
+
+
+---
+
+class: inverse, middle, center
+
+## What are we talking about when we talk about contemporary globalization?
+
+---
+
+background-image: url(https://assets.teenvogue.com/photos/5b87f37c13547862feb118b8/3:2/w_1514/GettyImages-876553282.jpg)
+background-size: contain
+
+---
+
+background-image: url(http://img.mp.sohu.com/upload/20170721/4ffc4f9480ab42159b68e4ddd14b289e_th.png)
+background-size: contain
+
+---
+
+background-image: url(https://leadership.ng/wp-content/uploads/2018/06/russia-2018-world-cup-country-flags.jpg)
+background-size: contain
+
+---
+
+background-image: url(https://farm9.staticflickr.com/8282/29181269750_f0785d33dc_h.jpg)
+background-size: contain
+
+---
+
+## When we use the term globalization today, we may mean many different things
+
+Could be .green[social], .green[cultural], .green[economic], or .green[political]. But more often than not, we will add national flavor:
+- BTS is a .orange[Korean] band. 
+- MC Jin (a.k.a the Hiphop man) is the son of .orange[Hong Kong] immigrant family, but was born and raised in the .orange[USA] and wields an quentinsential American art form. 
+- The World Cup is played among .orange[national teams]. 
+- Important global affairs are negotiated among .orange[national leaders].
+
+---
+
+background-image: url(https://geology.com/world/world-map.gif)
+background-size: contain
+background-position: center bottom
+
+### Almost every place on our earth is marked by some national flags
+
+---
+
+class: middle, center
+
+## .red[But what is a nation?]
+
+Is it the language people speak?
+Is it the ethnicity of you?
+Is it the passport you own?
+Is it the place you live?
+
+---
+
+
+### A .red[nation state] (or nation-state), in the most specific sense, is a .red[country] where a distinct .yellow[cultural or ethnic group] (a "nation" or "people") inhabits a territory and has formed a .red[state] (often a sovereign state) that it predominantly governs. It is a more precise concept than "country", since a country need not have a predominant ethnic group.
+
+
+.footnote[nation 民族
+
+sovereign state 主權國家
+
+Quoted from: https://en.wikipedia.org/wiki/Nation_state]
+
+---
+
+## Key Concepts
+
+.red[Nation]: social group linked through common descent, culture, language, or territorial contiguity. A cultural, ethnic entity.
+
+.red[National identity]: a fluid and dynamic form of collective identity; members believe that they are different from other groups.
+
+The idea have nation has long history. But as a major school of thought, it is a relatively young idea dated back to 17th century.
+
+The notion of "nation" was then embraced by a variety of people: political leaders, bureaucrats, the bourgeoisie, the proletariat, intellectual, etc, who all pushes for .cyan[nationalism] ⺠族主義 , a movement that .cyan[makes the nation as basis of a political structure: a state].
+
+---
+
+## Key Concepts
+
+.red[State]: is a political entity. An organizational structure with relatively autonomous office-holders outside other socioeconomic hierarchy . 
+
+The state emerged as a new institutional form in the wane of feudal system 封建體系. It offers a more centralized form of control.
+
+It also claim to .cyan[sovereignty] 主權: the ability to engage in collective action both internally (e.g. collect tax; organize education) and externally (e.g. warfare)
+
+.red[Nation-state]: integrates sub-groups that define themselves as a nation with the organizational structure of the state.
+
+---
+
+## Why everything has to be so complicated?
+
+![](https://s3.amazonaws.com/lowres.cartoonstock.com/food-drink-restroom-bathroom-fruit-veg-vegies-gra120113_low.jpg)
+
+---
+
+## To understand this, we need to turn back the clock
+### roughly 70,000 years ago
+
+---
+
+### A man fights a Gorilla. Who will win?
+
+![](https://img00.deviantart.net/214a/i/2012/070/5/3/great_ape_size_chart_by_harry_the_fox-d4sh0uc.jpg)
+
+
+---
+class: center, middle
+
+## What about 2 men vs. 2 gorilla?
+
+
+## What about 5 vs. 5?
+
+
+## What about 100 vs. 100?
+
+.footnote[Source: https://www.quora.com/Could-an-MMA-fighter-defeat-a-chimpanzee-in-hand-to-hand-combat]
+
+---
+
+## Historian Yuval Harari: What sets human apart from other animals?
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sapiens_A_Brief_History_of_Humankind.jpg/220px-Sapiens_A_Brief_History_of_Humankind.jpg)
+
+.footnote[
+Chinese title: 人類大歷史：從野獸到扮演上帝（.cyan[繁]）；人类简史:从动物到上帝（.cyan[簡]）
+]
+
+---
+
+## Harari: Two distinctive features
+
+Human can .violet[cooperate] with each others: gives them flexibility in large number
+
+Human has .violet[imagination]: the ability to believe in fictions
+
+- Totem 圖騰, Gods, Myths 神話
+- Trade, cooperate, cash, law...
+
+These two key features marked the .green[cognitive evolution]  認知革命 coined by Harari. Humans use it to create religion, commerce, and social structure, setting on a "fast lane" of evolution (different from .green[genetic evolution], which is very slow). 
+
+---
+
+## Why is it useful? Consider this:
+
+### Imagine you are a caveman, you are going to wage a war against another tribe
+
+Combined with the speaking ability:
+- Whose tribe is more powerful?
+- How are we going to conquer another tribe?
+- Who is more trust worthy?
+- Develops tighter, more complex forms of organization (i.e. division of labor in the army)
+
+---
+
+background-image: url(https://public-media.smithsonianmag.com/filer/Roger-Williams-with-American-Indians-631.jpg)
+backgrounds-size: contain
+
+### Now consider you a 17th century explorer who sailed to a new place
+
+The trade would bear more credibility if the two parties under on our common ancestors to build trust. 
+
+.footnote[Image credit: https://www.smithsonianmag.com/history/john-m-barry-on-roger-williams-and-the-indians-9322792/]
+
+---
+
+## The Nation-State 民族國家: A history
+
+.orange[The Peace of Westphalia] 威斯特伐利亞和約 (1648) among Holy Roman Emperor, Spain, France, Swedish Empire, Dutch Republic, all representing major European powers:
+
+- An international system recognizing sovereign states.
+- Purpose: balance of power, which requires clearly defined, centrally controlled entities. 
+- Interpreted as giving right to political determination and prohibiting intervention with affairs of other states.
+
+### Still very complicated, but consider _what it can do_
+
+---
+
+### In modern times: we believe in the credibility of national government, of exchange value cash, of protective function of the law, etc
+
+![](https://thegimmicking.com/wp-content/uploads/2017/10/5_KIDS.jpg)
+
+---
+
+## Without this unique ability
+We cannot develop global trade
+
+We cannot have division of labor
+
+We cannot live our modern day life even for a day (exaggeration, but you get the point)
+
+In modern days, the ability to believe in fiction continues to play a vital role in globalization. Human imagination enables to us to create many things
+- The trust & love you place in your idol
+- The empathy you draw from an art form
+- The enthusiasm you feel on a sports team
+
+---
+
+## Perhaps most importantly,  
+
+these things in turn create social ties and a large network of connection, extending far beyond our primitive instincts.
+
+The most power social entity we built so far: .red[a nation]. 
+
+---
+
+## National-state proves to be a powerful framework for human society
+
+![](https://img.rasset.ie/000f18d5-800.jpg)
+
+---
+### The living conditions are greatly improved
+
+https://www.gapminder.org/tools/
+
+---
+
+background-image: url(http://www.eulerhermes.com/economic-research/blog/AllInfographicPictures/global-trade-outlook-2016-map-jul16.png)
+background-size: contain
+
+
+---
+background-image: url(https://cdn.images.express.co.uk/img/dynamic/entities/590x350/426.jpg)
+background-size: contain
+background-position: center bottom
+
+### Nation state is also the deadliest organizational form ever
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/en/c/c6/Human_losses_of_world_war_two_by_country.gif)
+background-size: contain
+
+---
+
+## The nation-state resembles much of a fictional creation
+
+.cyan[Not a natural phenomenon but a social and political construct ‒needs to be defined as a state by those inside and outside it.]
+
+Political scientist and historian Benedict Anderson (1936 - 2015) defines nation-state as .red[an imagined community]: .cyan[a nation exists primarily as a set of ideas in people's minds:]
+- imagined
+- limited
+- sovereign
+- community
+
+Ever since our species Homo Sapiens 智人 appeared on earth, we have been living in "dual realities": we have physical reality such as water, tree, and lions. We also have imaged creation such as gods, country, and enterprise.
+
+Every nations makes an effort to teach these ideas
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/af/%E7%82%8E%E9%BB%84%E4%BA%8C%E5%B8%9D%E5%B7%A8%E5%9E%8B%E5%A1%91%E5%83%8F%E6%AD%A3%E9%9D%A2%E8%A7%86%E8%A7%92.JPG)
+background-size: contain
+
+### Chinese ancestors: Descendants of Yan and Huang 炎黃子孫
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e5/Amaterasu_cave.JPG)
+background-size: contain
+
+### Japanese ancestors: Descendants of Amaterasu 天照大神
+
+---
+
+## Claims of sovereignty in Chinese history: .violet[boundless and unlimited]
+
+>.green[原文]： .kt[普天之下,莫非王土.率土之賓,莫非王臣]
+
+>.green[Translation]: Under the heaven, nothing isn't the king's land; the people who lead the lands, no one isn't the king's subjects
+
+This concept of 天下 or "under the heaven", is opposite to modern concept of sovereignty (has borders and not endless through time).
+
+
+---
+## Nation state is an on-going process, often accompanied with crisis
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15451961.227150127!2d96.67103985000001!3d18.99981755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x305652a7714e2907%3A0xba7b0ee41c622b11!2sMyanmar+(Burma)!5e0!3m2!1sen!2s!4v1536197507423" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+background-image: url(https://www.geckosadventures.com/sites/geckos/files/styles/low-quality/public/elements/product/hero/myanmar_burma_bapan_temple_monks_0.jpg)
+background-size: contain
+
+### Myanmar 緬甸 is a predominantly Buddhist country
+
+---
+
+background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/170913162543-01-rohingya-refugees-0909-restricted-full-169.jpg)
+background-size: contain
+background-position: center bottom
+
+### By contrast, Rohingya people are Muslim/Hindu: stateless and in great peril
+
+---
+class: top, right
+
+background-image: url(https://i0.wp.com/qiuyunsong.com/wp-content/uploads/2015/03/Lee-Kuan-Yew.jpg?resize=700%2C355)
+background-size: contain
+background-position: center bottom
+
+### Not just a developing nation's problem: .yellow["Singapore is not a Malay nation, not a Chinese nation, not an Indian nation. Everybody will have a place in Singapore." (1965)] 
+
+.blue[Singapore demographics: Chinese (76.2%), Malays (15.0%), Indians (7.4%)]
+
+---
+
+### .orange[Takeaway message]: Nation-state is a myth/fiction, albeit a powerful one.
+- Any myth needs to be told/retold & maintained
+
+
+### It forms the foundation of today's globalization, though not the only important entity
+- Cooperations
+- Non-government organizations
+- Religious institutions
+
+---
+## Which picture describes a nation state in your mind?
+
+.pull-left[![](http://cdn.shopify.com/s/files/1/1196/3690/products/Accessories_sponge02_cropped_1024x1024.jpeg?v=1457733515)]
+
+.pull-right[![](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg)]
+
+---
+
+## The nation-state: Threats
+
+Nation-state is still a dominant form of organization, it still face significant challenges. We should be able to identify changes, the constructed nature of the system, and differences within it, need to be recognized.
+
+key question is whether recent global processes are beginning to undermine the power, relevance, and legitimacy of nation-states.
+
+.orange[Global flows/processes]: ‒state as increasingly .violet[porous] 多孔的
+- E.g. global economic flows, immigrants, social movements,
+terrorists, criminals, global problems, war, failed states
+
+.orange[International human rights]:
+- universal, beyond state?
+- constrains nation-states (e.g. Rohingya crisis in Myanmar)
+
+.orange[Shadow]
+- extra-state processes/networks (e.g. such as al-Qaeda)
+- in education, the "shadows" are also growing in general
+(e.g. academic tutoring)
+
+---
+
+.orange[Transnational discourses] ‒local and global links. In education, these are the important things to keep eyes on:
+
+- Push for STEM (Science, Technology, Engineering, Math) education
+- Market-oriented education model.
+- International assessment (e.g. PISA)
+- Higher education: .violet[Bologna Process] 博洛尼亞進程
+- International curricula: .violet[International Baccalaureate] (IB)
+and .violet[Advanced Placement] (AP)
+- International ranking (e.g. university ranking)
+
+---
+
+## Are we ready to through the nation-state out of the window?
+The role of state enduring or even increasing mainly due to issues of .orange[national security]:
+- Terrorism, problems from economic globalization, immigration threatening national identity, global diseases
+
+.orange[Global processes not as powerful as claimed]
+- Business within countries can be more than global (e.g. Taobao; bike sharing)
+- Periodical shift in global migration (e.g. a decline during 2007-2011, but on the rise after 2013)
+- Nations could be adept at changing global discourses (i.e. USA under Donald Trump on global trade)
+- Nations increasingly tightens control of information flow on Internet.
+
+Emphasize that .violet[Globalization as an "opportunity" for nation-states rather than a threat]
+
+---
+
+## Changes in global nation-state relations
+
+Relationships between nation-states are inherently political
+
+Geo-political 地緣政治 scenario developed through three stages:
+
+- .orange[Bipolar] – during the Cold War (Soviet Union vs. USA)
+
+- .orange[Unipolar] – ascendancy of USA
+
+- .orange[Tri-polar] – future of USA, China, and EU as central
+ 
+Although economic globalization is imagined as "free-flow", geopolitics involves largely political and military efforts aimed at gaining control over these flows. 
+
+---
+
+## .red[Summary]
+
+Political structures are central to globalization and involve multiple flows
+
+The system of nation-states is a social and political construct, it can be changed and is changing
+
+Education serve both as goal and means in globalization
+
+Questions over the legitimacy, power, and relationships between these structures continue
+
+Nation state is important
+- decide how we think about ourselves
+- identity
+- culture, economy, social conditions
+- iconic individual or groups
+
+.violet[More next week]: A range of global political structures have developed in response to the changing role of the nation-state and challenges faced
+- These include formal structures between nations, more globally orientated governance, civil society, and global civil society 
+
+
+---
+
+## Resources
+Content: Ritzer & Dean Chapter 5
+
+[Is nationalism good or bad thing? Essay on WSJ](https://www.wsj.com/articles/the-liberty-of-nations-1535120837)
+
+More on Rohingya 羅興亞人 crisis: [English reporting by NYT](https://www.nytimes.com/2018/08/27/opinion/rohingya-myanmar-genocide-united-nations.html), [Chinese reporting by the Initium](https://theinitium.com/article/20161208-opinion-kalvinfung-rohingya/)
+
+More on the Chinese concept of "under the heaven" (_Tianxia_): http://www.chinaheritagequarterly.org/tien-hsia.php?issue=021&searchterm=021_utopia.inc
