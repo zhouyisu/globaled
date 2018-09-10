@@ -151,7 +151,7 @@ class: inverse, middle, center
 ## Group discussion: What would you do to create an independent, affluent life?
 
 - Form a group of any size for discussion
-- Come up with a plan (i.e. with steps)
+- Come up with a plan (i.e. step by step)
 - Each group submit one plan via pollev.com/yisu 
 
 ---
