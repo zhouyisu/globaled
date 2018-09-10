@@ -6,10 +6,12 @@ The first half of the course material is based on the textbook by Ritzer, G. nd 
 
 ## View slides
 To view the slides as they were presented in class, visit:
-- 8/23 https://zhouyisu.github.io/globaled/session01
-- 8/27 https://zhouyisu.github.io/globaled/session02
-- 8/30 https://zhouyisu.github.io/globaled/session03
-- 9/03 https://zhouyisu.github.io/globaled/session04
+- 08/23 https://zhouyisu.github.io/globaled/session01
+- 08/27 https://zhouyisu.github.io/globaled/session02
+- 08/30 https://zhouyisu.github.io/globaled/session03
+- 09/03 https://zhouyisu.github.io/globaled/session04
+- 09/06 https://zhouyisu.github.io/globaled/session05
+- 09/10 https://zhouyisu.github.io/globaled/session06
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 

@@ -1,0 +1,510 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 06"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/09/10"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: ["wscale.js", "https://platform.twitter.com/widgets.js"]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+# Governing the global & Structuring the global economy
+
+---
+
+## Aims
+
+The nation-state framework at the global level:
+- .orange[How do countries solve conflict with one another?]
+- .orange[How do countries do business with one another?]
+
+---
+
+## A central question among nation-states: .green[Often times they don't get along with each other]
+### International structure
+
+.violet[League of Nations] (1920-1946)
+
+.violet[United Nations] (1945-)
+- Security Council 安全理事會, General Assembly 聯合國大會, UNESCO 聯合國教科文組織，etc
+- Critics: slow (193 members), bureaucratic, less efficient
+
+.violet[Group of Eight (G8)]: Canada, France, Germany, Italy, Japan, Russia (suspended), the United Kingdom and the United States.
+- Similarly, .violet[Group of Twenty (G20)]
+    
+Specialized groups: .violet[OECD] (The Organisation for Economic Co-operation and Development), which mostly focus on economic development
+
+---
+
+## The world is very big, global organizations might not intervene/focus on local issues
+### Regional political organizations
+
+.violet[Association of Southeast Asian Nations (ASEAN)] 東南亞國家聯盟/東盟:
+
+- .orange[Founding] (1967): Indonesia, Malaysia, the Philippines, Singapore, Thailand
+- .orange[Member]: Brunei, Cambodia, Laos, Myanmar, Vietnam
+- .orange[Observers]: Papua New Guinea, East Timor
+
+Others: African Union (AU), Organization of American States, etc
+
+### Supra-regional organizations
+New brothers banding together: such as .violet[BRICS] 金磚國家: Brazil, Russia, India, China, South Africa
+
+---
+## Global governance
+
+Obviously .red[war] is bad for everyone. Therefore three new forms of governance:
+
+- Multi-stakeholder initiatives (i.e. many different countries/organizations come together to solve problems)
+- Voluntary regulations (i.e. Paris accord for climate change)
+- Arbitration bodies 仲裁協商機構 (i.e. South China Sea)
+
+.red[But still]: there is no supreme governing power at global level (i.e. no country/organization could call all the shots)
+
+Pressure for global governance seen to result from increased global .red[diversity] 多元化 and .red[fragmentations] 碎片化 due to:
+- Declining power of nation-state (i.e. porous)
+- Increasing flows through state borders, including negative flows such as drugs, disease, crime
+- Horrendous acts by states or inability to prevent
+- Global problems that need global response (i.e. climate change)
+
+---
+
+## Global civil society 國際公民社會
+
+We yet to have very effective & efficient mechanisms to solve disputes between countries OR help poor nations develop in the nation-state framework, which gives rise to：
+
+>.blue[Global, non-governmental, pluralistic form of society, composed of interlinked social processes orientated to civility]
+
+Civil society activity at global level, involving social movements, NGOs, transnational networks, religious organizations, community groups
+- Has an unfinished, varied character
+- Growth of NGOs and movements since 1990s
+- Who represented and what relationship to state?
+
+---
+
+## Global civil society: INGOs
+
+>.blue[International Non-Governmental Organizations (INGOs) are international not-for-profit organizations performing public functions but not established or run by nation-states] 
+
+Examples include: 
+- Red Cross 紅十字會 (1865)
+- Salvation Army 救世軍
+- Oxfarm 樂施會
+- Save the Children (children's rights, disaster relief, aide)
+- More recent phenomena: big .green[philanthropist] 慈善家
+    + Melinda and Bill Gates Foundation
+    + Chan-Zuckerberg Initiative.
+    + Open Society Founadtion (George Soros)
+
+---
+
+## INGOs characteristics
+
+Have rational-moral authority rather than legal 沒有法律層面的權利
+
+Power from neutrality 政治中立
+
+Seen as grass-roots, in touch, media savvy 草根本土、在地、由下至上
+
+Made number of successes
+
+Criticisms include: 
+- control of North, limited focus may distort picture, funding priorities, elitist, undemocratic, accelerate state withdrawal of social provision, can be co-opted
+- INGOs part of globalization but some argue part of neoliberal system as serve to fill voids left as nation-states scale back their functions
+
+---
+
+## Other players
+
+.violet[Coalitions and networks] – as together NGOs can have more influence and impact
+
+.violet[Hybrids] – NGOs working with states or companies, such as Kimberly Process, Ethical Trading Initiative
+
+.violet[Sub-regional] and .violet[supra-regional] organizations
+
+.violet[Links] between local entities and global, as well as local and national NGOs linking with INGOs
+
+Religious organizations/networks
+
+Global terrorist organizations
+
+Individual global players
+
+---
+
+# Economic development
+## How do countries grow from poor to rich?
+
+---
+class: inverse, middle, center
+
+## Group discussion: What would you do to create an independent, affluent life?
+
+- Form a group of any size for discussion
+- Come up with a plan (i.e. with steps)
+- Each group submit one plan via pollev.com/yisu 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/free_text_polls/VbSZU41gL8dcgLe?controls=none&short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+
+---
+
+## What is a job?
+
+You sell your labor/skills in exchange for monetary rewards
+
+## What do you do when you receive your salary?
+- .orange[Consumption] 消費: purchase of goods or services
+- .orange[Saving] 儲蓄: to put your money in the bank (usually with an expectation to consume more in the future: buy an apartment, pay for your children's education, pay for hospital bill, etc)
+- .orange[Investment] 投資: money committed or property acquired for future income.
+  + Stock 股票
+  + Bonds 債券
+  + Real estate 房地產
+  + etc
+
+---
+### As a (ordinary) person, you can 
+
+- Start job (entry level salary)
+- Work you way up ( + salary)
+- Get promoted or find another job (++ salary)
+
+During which time when you are older:
+- Save for .violet[down payment] 首期款/首付 of an apartment/house (or maybe borrow money from your parents and/or relatives)
+- Take out a .violet[loan] 貸款 from the bank
+  + you need to payback gradually with .violet[interests] 利息
+
+### Or you might take a non-traditional route
+
+- Establish a tech start-up and becomes a CEO, wishing one day your company will either be purchased by someone else or enlisted in stock exchange 上市
+- Become a creative person: writer, vlogger/streamer, fashion model, freelancer
+- Marry a billionaire 
+
+---
+## No matter which route you choose, underneath it:
+
+You start with something: small sum of money or just you
+
+You perform some work or make some investment to accumulate wealth, which let you do other things
+
+```{r cntwealth, echo=FALSE, warning=FALSE, cache=TRUE}
+library(DiagrammeR)
+m <- mermaid("graph LR;
+      A[Initial state: <br> small pile of money <br> or just you] -- Hard Work --> B[Accumulate wealth];
+      B -- Repeat --> C[Positive cycle]")
+widgetframe::frameWidget(m)
+```
+
+---
+class: center, middle
+
+## But what if you are running a country instead just you? What changed?
+- You won't be able to "find a job"
+- The only way to get rich is to encourage your people do business with people in other countries
+- Global currency is U.S. dollar (i.e. only U.S. can issue it)
+
+---
+## As a poor and developing country, what can you do?
+
+You don't have much tradable or valuable thing to exchange for. Why do you need trade? Because any one country won't be able to sufficiently sustain itself (i.e. produce everything)
+- .violet[Natural resources]
+  + Petroleum 石油
+  + Natural gas 天然氣
+  + Lumber 木材
+  + Minerals 礦石
+- Beautiful .violet[natural scenes]: Tourism
+- .violet[Agriculture] 農業
+
+But there is a catch:
+- Extracting natural resources require .green[technology]
+- Tourism requires hefty .green[initial investment].
+- Agriculture is .green[not very profitable] (i.e. natural disaster; low price of agri products)
+
+---
+## Let's do it: On the path of national prosperity
+
+Goal 1: You want to increase the value of things you can sell
+
+Goal 2: You want to sell more
+
+To achieve these goals, you can do such:
+- Improve your product (i.e. make them better, more attractive)
+  + Improve the technology
+  + Improve the design
+  + Better marketing
+- Make things cheaper
+  + .cyan[Pave better roads] (i.e. ship things faster)
+  + .cyan[Provide cheaper electricity] (i.e. cheaper energy)
+  + .cyan[Have more productive worker] (i.e. education & training)
+  + .brown[Pollute the environment] (not so good long term, but short term...)
+  + .brown[Exploit workers] (i.e. have them work longer, underpay them, don't provide social welfare)
+  + .brown[Cheat] (i.e. using low quality materials)
+  + .brown[Pirate] 盜版
+
+---
+background-image: url(https://qph.fs.quoracdn.net/main-qimg-57939189386cc00d8b465f3fe4c2f21c-c)
+background-size: contain
+background-position: center top
+
+### Copycat: almost every country has been on this path before
+.footnote[For more: https://www.quora.com/Did-Japan-in-the-1960s-to-1980s-have-the-reputation-for-being-a-product-copycat-like-China-has-today ]
+
+---
+## Wait, I am also a nice ruler. I want my people to be happy
+
+Other intangible things (may be less priority for development?):
+- parks
+- police
+- hospital
+- military
+- library
+- sports facility
+
+These all cost .orange[resources]. Where do you get these?
+
+---
+
+## .violet[Three essential questions in development]
+
+### 1. How should we trade with each other?
+
+### 2. What if I made bad decisions?
+
+### 3. What kind of investment should I be making?
+
+
+---
+
+## 1. How should we trade with each other?
+
+There is an old idea that international trade is .red[zero-sum]. This is called .cyan[Mercantilism] 重商主義: A country can gain by exporting but lose by importing.
+
+However, modern economics have shown that international-trade is a .red[positive-sum game]. It actually benefiting both sides:
+- Import can
+  + lower prices, help consumers
+  + increase variety
+  + provide necessary inputs for firms to improve their products
+  + allows for more specialized inputs that help increase productivity
+
+Therefore, as a country, you should focus on international trade and develop your own competitive advantage.
+
+But trade can be complicated: obviously you cannot trade for everything. Need rules to regulate trade. You also need rules and mechanism to settle disputes among countries: .orange[General Agreement on Tariffs and Trade (GATT)] 關稅暨貿易總協定  
+- 1947–1995 superseded by WTO
+- System for liberalization of trade
+
+---
+## 1. How should we trade with each other?
+    
+.orange[World Trade Organization (WTO)] 世界貿易組織
+
+- Multilateral and at heart of economic globalization
+- Evident strains between developed and developing nations
+- "Rounds" held, with latest Doha being contentious, shows:
+	+ complications due to numbers involved in negotiations
+	+ lack of agreement between key nation-states
+	+ rising power of East
+	+ declining power of US and EU
+	+ possible decline in acceptance of neoliberalism and rise in trends towards protectionism
+- .orange[Trade-related intellectual property rights (TRIPS)]: WTO agreement to protect the interests of those that create ideas
+- .orange[Trade-related investment measures (TRIMs)]: WTO agreement on trade measures governments can impose on foreign firms 
+
+---
+background-image: url(http://www.visualcapitalist.com/wp-content/uploads/2018/03/export_map2.png)
+background-size: contain  
+
+---
+## 2. What if I made bad decisions?
+
+What would you do as an ordinary person?
+- Ask for help from your support network: friends, parents, relatives.
+- Turn to a loan shark 高利貸
+- Declare bankruptcy 破產
+
+.orange[International Monteary Fund] (國際貨幣基金組織 IMF):
+
+- Created 1944
+- Original focus on creation of stable global monetary system and ".violet[lender of last resort]" （最後貸款人） 
+- Adapted to changing global economy, by 1970s focused on loans to developing countries 
+- Loans with conditions and demand for .violet[structural adjustments]
+
+Believe it or not, there are many badly managed economies: 
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Since March, Argentina&#39;s Peso is down 46% versus USD, while Turkey&#39;s Lira is down 39%. Think about the difference. An IMF program and central bank hikes are defending ARS. Little comparable defense for TRY, which says to me the Lira is more likely to be undershooting fair value. <a href="https://t.co/MV5HaE6rT9">pic.twitter.com/MV5HaE6rT9</a></p>&mdash; Robin Brooks (@RobinBrooksIIF) <a href="https://twitter.com/RobinBrooksIIF/status/1038060133039988736?ref_src=twsrc%5Etfw">September 7, 2018</a></blockquote>
+
+---
+
+More with Argentina story: https://www.npr.org/sections/money/2016/03/11/470136949/episode-689-a-hedge-fund-a-country-and-a-big-sailboat
+
+---
+### International Monetary Fund (IMF)
+
+Became focal point for critics of neoliberal 新自由主義 agenda (in short: only benefit someone at the expense of others. Will talk more next week)
+
+Major criticisms include: 
+
+- Neoliberal policies applied unquestioningly
+- Structural adjustments inappropriate as circumstances of individual countries not considered
+- Governance structure US-dominated and mainly serves interest of North rather than developing countries
+- Contributed to economic crisis
+
+Led to change in focus, attempts to be more transparent, involvement of NGOs, some consideration of social issues
+
+---
+## 3. What kind of investment should I be making?
+
+What would you do as an ordinary person?
+- Acquire marketable skills
+- Minimize potential costs (i.e. you should take care of your body)
+- Ask advice from your role model.
+
+In academic terms, economists have suggested the following strategies:
+1. .orange[Structural transformation]: place workers to more productive factories (than say, agriculture)
+2. .orange[capital deepening]: adding more capital per worker (i.e. equip workers with better machinery)
+3. .orange[technological diffusion]: augmenting capital or labour by adopting techniques that has not been previously embraced
+4. .orange[technological innovation]: advance in new technology
+
+
+---
+
+.orange[World Bank] 世界銀行:
+
+- Goal of funding government-sponsored programmes in developing countries
+- Specialized UN agency set up in 1945
+- Original remit of infrastructure programs expanded to all areas of economic development
+- Suppose to be non-political but boundaries blur
+- An important force globally as it is:
+	+ a .cyan[forum] for global discussions on development and finance
+  + significant .cyan[funding source] for developing countries
+  + .cyan[source of development information, advice, support]
+
+Has become increasingly controversial and focus of protest and criticism
+
+Main criticisms include:
+
+- dominance of developed countries
+- serves only some interests, neglecting poor
+- has lost focus
+
+
+---
+### Example: Invest in education in poor nations
+
+At global level, rich countries helped poor countries develop educationally mainly through .violet[aid] 援助 and .violet[loan] 貸款.
+
+How do you decide which level of education to invest? 
+
+Imagine you are the guy who got those extra cash in your pocket (from saving presumably): how will you prioritize your investment?
+
+---
+### Returns of education research
+
+Message: investing on girls, not boys
+
+![](./pic/return2.jpg)
+
+---
+### Returns of education research
+
+Message: investing primary education for boys. Secondary education for girls.
+
+![](./pic/return3.jpg)
+
+.footnote[Source: Psacharopoulos, George, and Harry Anthony Patrinos. "_Returns to investment in education: a further update._" Education economics 12.2 (2004): 111-134.]
+
+---
+background-image: url(https://heckmanequation.org/assets/2014/04/The20Heckman20Curve_v2.jpg)
+background-size: contain
+
+---
+## The myth of economic globalization
+    
+Much evidence available to suggest the growing importance of economic globalization. It involves real global processes and flows to degree not seen before
+
+But some skeptics argue that these developments:
+
+- are not new
+- are not truly global (i.e. more regional)
+- do not represent any shifts in power from established relationship of developed and less developed
+- therefore economic globalization is a myth
+
+More importantly, skeptics argue that economic globalization has yet to solve two problems:
+- .violet[Middle income trap]
+- .violet["The bottom billion"]
+
+---
+## Only 13 countries joined rich countries club since 1960
+
+![:wscale 90%](https://cdn.static-economist.com/sites/default/files/images/print-edition/20171007_SRC647_1.png)
+
+.footnote[Source: [The Economist](https://www.economist.com/graphic-detail/2012/03/27/the-middle-income-trap)]
+
+---
+
+## "The bottom billion" 底層的10億人
+    
+Economist Paul Collier (2008) claims these frames can distort extent of inequality and ignore the poorest.
+- Vast majority live in Africa (70%)
+- Also Haiti, Bolivia, Laos, North Korea, Yemen, and others
+- Often have less than fifth of income of other developing countries
+
+---
+### "The bottom billion"
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/zh-tw/paul_collier_shares_4_ways_to_help_the_bottom_billion" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+---
+
+### The "The bottom billion"
+Other problems relate to low income and compare badly with other developing countries:
+
+- .violet[Low life expectancy]: 50 yrs compared to 67 yrs
+- .violet[High infant mortality]: 14% die before fifth birthday compared to 4%
+- .violet[Malnutrition problems]: 36% compared to 20%
+
+Nation-states face four traps of impoverishment:
+
+- .orange[Conflict trap] – nation-state confronted with either continuing civil wars or frequent violent coups d’état 政變
+- .orange[Natural resources trap] – limiting economic development because of excessive dependence on abundant natural resources
+- .orange[Trap of being landlocked with "bad neighbors"] – impact on ability to transport exports
+- .orange[Bad governance trap] – policies which can inhibit or destroy economy
+
+---
+### Resources on this topic
+
+Documentary: _Time for School 2003 -2016_
+
+![](http://www.tvweeklynow.com/images/9073/RIcksPix/Press%20Images%20Jun15/TimeforSchool%20logo.jpg)
+
+---
+## .red[Summary]
+
+
+Economic structures are central to globalization and involve multiple flows
+
+The Bretton Woods System had profound influence on the development of these structures and lasting influence through institutions
+
+Increasingly vocal protests led to changes, but criticisms of system continue
+
+Other organizations and structures have developed to promote economic globalization in particular places, often for the benefit of some
+
+Questions over the legitimacy, significance, inequality, and relationships between these continue
+
+---
+
+## Resources
+- Read Ritzer & Dean Chapter 
+
+- Collier, Paul. _The bottom billion: Why the poorest countries are failing and what can be done about it._ Oxford University Press, USA, 2008. .kt[最底层的10亿人] 保罗•科利尔 （2008） 中信出版社
