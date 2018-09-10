@@ -33,11 +33,17 @@ The nation-state framework at the global level:
 ## A central question among nation-states: .green[Often times they don't get along with each other]
 ### International structure
 
+--
+
 .violet[League of Nations] (1920-1946)
+
+--
 
 .violet[United Nations] (1945-)
 - Security Council 安全理事會, General Assembly 聯合國大會, UNESCO 聯合國教科文組織，etc
 - Critics: slow (193 members), bureaucratic, less efficient
+
+--
 
 .violet[Group of Eight (G8)]: Canada, France, Germany, Italy, Japan, Russia (suspended), the United Kingdom and the United States.
 - Similarly, .violet[Group of Twenty (G20)]
@@ -47,6 +53,9 @@ Specialized groups: .violet[OECD] (The Organisation for Economic Co-operation an
 ---
 
 ## The world is very big, global organizations might not intervene/focus on local issues
+
+--
+
 ### Regional political organizations
 
 .violet[Association of Southeast Asian Nations (ASEAN)] 東南亞國家聯盟/東盟:
@@ -56,6 +65,8 @@ Specialized groups: .violet[OECD] (The Organisation for Economic Co-operation an
 - .orange[Observers]: Papua New Guinea, East Timor
 
 Others: African Union (AU), Organization of American States, etc
+
+--
 
 ### Supra-regional organizations
 New brothers banding together: such as .violet[BRICS] 金磚國家: Brazil, Russia, India, China, South Africa
@@ -69,6 +80,7 @@ Obviously .red[war] is bad for everyone. Therefore three new forms of governance
 - Voluntary regulations (i.e. Paris accord for climate change)
 - Arbitration bodies 仲裁協商機構 (i.e. South China Sea)
 
+--
 
 Pressure for global governance seen to result from increased global .red[diversity] 多元化 and .red[fragmentations] 碎片化 due to:
 - Declining power of nation-state (i.e. porous)
@@ -91,6 +103,8 @@ We yet to have very effective & efficient mechanisms to solve disputes between c
 
 >.blue[Global, non-governmental, pluralistic form of society, composed of interlinked social processes orientated to civility]
 
+--
+
 Civil society activity at global level, involving social movements, NGOs, transnational networks, religious organizations, community groups
 - Has an unfinished, varied character
 - Growth of NGOs and movements since 1990s
@@ -101,6 +115,8 @@ Civil society activity at global level, involving social movements, NGOs, transn
 ## Global civil society: INGOs
 
 >.blue[International Non-Governmental Organizations (INGOs) are international not-for-profit organizations performing public functions but not established or run by nation-states] 
+
+--
 
 Examples include: 
 - Red Cross 紅十字會 (1865)
@@ -170,6 +186,8 @@ class: inverse, middle, center
 
 You sell your labor/skills in exchange for monetary rewards
 
+--
+
 ## What do you do when you receive your salary?
 - .orange[Consumption] 消費: purchase of goods or services
 - .orange[Saving] 儲蓄: to put your money in the bank (usually with an expectation to consume more in the future: buy an apartment, pay for your children's education, pay for hospital bill, etc)
@@ -186,10 +204,14 @@ You sell your labor/skills in exchange for monetary rewards
 - Work you way up ( + salary)
 - Get promoted or find another job (++ salary)
 
+--
+
 During which time when you are older:
 - Save for .violet[down payment] 首期款/首付 of an apartment/house (or maybe borrow money from your parents and/or relatives)
 - Take out a .violet[loan] 貸款 from the bank
   + you need to payback gradually with .violet[interests] 利息
+
+--
 
 ### Or you might take a non-traditional route
 
@@ -232,6 +254,8 @@ You don't have much tradable or valuable thing to exchange for. Why do you need 
 - Beautiful .violet[natural scenes]: Tourism
 - .violet[Agriculture] 農業
 
+--
+
 But there is a catch:
 - Extracting natural resources require .green[technology]
 - Tourism requires hefty .green[initial investment].
@@ -243,6 +267,8 @@ But there is a catch:
 Goal 1: You want to increase the value of things you can sell
 
 Goal 2: You want to sell more
+
+--
 
 To achieve these goals, you can do such:
 - Improve your product (i.e. make them better, more attractive)
@@ -296,6 +322,8 @@ These all cost .orange[resources]. Where do you get these?
 
 There is an old idea that international trade is .red[zero-sum]. This is called .cyan[Mercantilism] 重商主義: A country can gain by exporting but lose by importing.
 
+--
+
 However, modern economics have shown that international-trade is a .red[positive-sum game]. It actually benefiting both sides:
 - Import can
   + lower prices, help consumers
@@ -304,6 +332,8 @@ However, modern economics have shown that international-trade is a .red[positive
   + allows for more specialized inputs that help increase productivity
 
 Therefore, as a country, you should focus on international trade and develop your own competitive advantage.
+
+--
 
 But trade can be complicated: obviously you cannot trade for everything. Need rules to regulate trade. You also need rules and mechanism to settle disputes among countries: .orange[General Agreement on Tariffs and Trade (GATT)] 關稅暨貿易總協定  
 - 1947–1995 superseded by WTO
@@ -332,10 +362,14 @@ background-size: contain
 ---
 ## 2. What if I made bad decisions?
 
+--
+
 What would you do as an ordinary person?
 - Ask for help from your support network: friends, parents, relatives.
 - Turn to a loan shark 高利貸
 - Declare bankruptcy 破產
+
+--
 
 .orange[International Monteary Fund] (國際貨幣基金組織 IMF):
 
@@ -371,10 +405,14 @@ Led to change in focus, attempts to be more transparent, involvement of NGOs, so
 ---
 ## 3. What kind of investment should I be making?
 
+--
+
 What would you do as an ordinary person?
 - Acquire marketable skills
 - Minimize potential costs (i.e. you should take care of your body)
 - Ask advice from your role model.
+
+--
 
 In academic terms, economists have suggested the following strategies:
 1. .orange[Structural transformation]: place workers to more productive factories (than say, agriculture)
@@ -395,6 +433,8 @@ In academic terms, economists have suggested the following strategies:
 	+ a .cyan[forum] for global discussions on development and finance
   + significant .cyan[funding source] for developing countries
   + .cyan[source of development information, advice, support]
+
+--
 
 Has become increasingly controversial and focus of protest and criticism
 
@@ -480,6 +520,8 @@ Other problems relate to low income and compare badly with other developing coun
 - .violet[High infant mortality]: 14% die before fifth birthday compared to 4%
 - .violet[Malnutrition problems]: 36% compared to 20%
 
+--
+
 Nation-states face four traps of impoverishment:
 
 - .orange[Conflict trap] – nation-state confronted with either continuing civil wars or frequent violent coups d’état 政變
@@ -494,7 +536,7 @@ Nation-states face four traps of impoverishment:
 
 Economic structures are central to globalization and involve multiple flows
 
-The Bretton Woods System had profound influence on the development of these structures and lasting influence through institutions
+The Bretton Woods System (World Bank and IMF) had profound influence on the development of these structures and lasting influence through institutions
 
 Increasingly vocal protests led to changes, but criticisms of system continue
 
