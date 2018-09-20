@@ -13,6 +13,8 @@ To view the slides as they were presented in class, visit:
 - 09/06 https://zhouyisu.github.io/globaled/session05
 - 09/10 https://zhouyisu.github.io/globaled/session06
 - 09/13 https://zhouyisu.github.io/globaled/session07
+- 09/17 Typhoon Mangkhut, class cancelled
+- 09/20 https://zhouyisu.github.io/globaled/session08
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
