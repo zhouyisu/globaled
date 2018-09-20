@@ -44,15 +44,21 @@ background-size: contain
 
 It branched in more than 100 countries
 
+--
+
 Why people love McDonald's?
-- Greater availability of goods and services to the general population.
+- Greater availability of food to the general population
+- Affordable
 - Instant service
 - Uniform quality
 - 24/7
 
 ---
 
-### Also represents localization with different culture:
+### Also represents localization with different culture
+
+--
+
 - Willingness to tweak its menu:
 	+ No beef menu in India
 	+ Rice burger in East Asian regions
@@ -60,18 +66,24 @@ Why people love McDonald's?
 	+ McLobster for Canada
 	+ Avocado replace ketchup in Chile
 	+ Salmon in Norway
+
+--
+
 - Actively embracing social media to change its social image
 	+ "I'm loving it"
 	+ Kids - Uncle McDonald
 	+ Teenager/ young adults: McCafe
 	+ Health awareness: Health campaign (salads, less saturated fat, etc)
+
+--
+
 - Inspired many more: KFC, Starbucks, other franchised food chains
 
 
 ---
 ### Symbol of globalization
 
-In 1986, The Economist started using the Big Mac as a comparison tool to compare cost of living between countries, and it's still being used today.
+In 1986, _The Economist_ started using the Big Mac 巨無霸 as a tool to compare cost of living between countries, and it's still being used today.
 
 ![:wscale 60%](https://durian.runtuh.com/uploads/default/original/1X/092b8e5756a6eafcf41e79e3a3baecd74df1b0ee.jpg)
 
@@ -97,7 +109,12 @@ background-size: contain
 
 ## The greater contribution to globalization: McDonaldization 麥當勞化
 
+--
+
 McDonaldization is a concept created by sociologist George Ritzer <sup>.red[1]</sup>, refers to the business model pioneered by McDonald that focuses on 4 main elements:
+
+--
+
 1. .orange[Efficiency]: finding the best of optimum means to an end.
 2. .orange[Calculability]: The focus on quantity over quality.
 3. .orange[Predictability]: Knowing what you are getting from one place to the next.
@@ -109,6 +126,8 @@ McDonaldization is a concept created by sociologist George Ritzer <sup>.red[1]</
 ---
 ## Efficiency via Standardization
 ### .cyan[How long does it take to make a double cheeseburger?]
+
+--
 
 >It takes about 60 seconds to assemble a double cheeseburger. Because our grill has two sides, it takes about 38 seconds to cook the hamburger patties. And we also lightly toast the bun. It's pretty easy to assemble the burger. So it goes bottom bun, first hamburger patty, first cheese slice, second hamburger patty, second cheese slice, pickles, onions, ketchup and mustard. That's it! 
 
@@ -123,11 +142,32 @@ McDonaldization is a concept created by sociologist George Ritzer <sup>.red[1]</
 
 ---
 
+
+background-image: url(http://i1128.photobucket.com/albums/m485/aloyallyanders/2011%20PAB%20Blog/Mc17.jpg)
+background-size: contain
+
+## Control over technology
+
+
+---
+
+background-image: url(http://i1128.photobucket.com/albums/m485/aloyallyanders/2011%20PAB%20Blog/Mc20.jpg)
+background-size: contain
+
+---
 ## What do these elements mean for people who work at McDonald's?
 
-.violet[De-skilling]: the process by which skilled labor within an industry or economy is eliminated by the introduction of technologies operated by semiskilled or unskilled workers.
+.violet[De-skilling]: the process by which skilled labor within an industry or economy is eliminated by the introduction of technologies operated by _semiskilled_ or _unskilled_ workers.
 
-Ritzer believed McDonaldization leads to the deskilling of the workforce. _Why have a human do it if a computer can do it efficiently, calculability and predictably every time? Why hire a qualified cook when you can replace him/her with machines and high school students?_ Of course, this is meant to be .green[the most rationale system of operation although it might be more irrational in other aspects].
+--
+
+Ritzer believed McDonaldization leads to the deskilling of the workforce. 
+- _Why have a human do it if a computer can do it efficiently, calculability and predictably every time?_ 
+- _Why hire a qualified cook when you can replace him/her with machines and high school students?_ 
+
+Of course, this is meant to be .green[the most rationale system of operation although it might be more irrational in other aspects].
+
+--
 
 .violet[De-humanization]
 - Health and environment hazards.
@@ -162,6 +202,7 @@ class: inverse, middle, center
 
 ## McDonaldization has been embraced by many global business because of: lower cost, flexibility, ease of scale up
 
+--
 
 ## Accompanied deskilling and dehumanization are only part of the story for body worker. Another part is the changing attitude toward them
 
@@ -262,6 +303,8 @@ When countries are isolated from one another, the change of occupation structure
 - Immigration
 - Communication technology (i.e. the Internet)
 
+--
+
 Old-style middle class jobs are rapidly disappearing:
 - Replaced by cheaper options enabled by globalization
 - Viewed as replaceable by the society
@@ -269,7 +312,7 @@ Old-style middle class jobs are rapidly disappearing:
 
 ---
 
-## The ideas behind such change: Neoliberalism
+## The ideas behind such change: Neoliberalism 新自由主義
 
 Scholars believes neoliberal ideology can be viewed from __four__ angles:
 
@@ -281,7 +324,7 @@ Scholars believes neoliberal ideology can be viewed from __four__ angles:
 
 ---
 
-.red[Social imaginary]: entrepreneurship, self-reliance, and sturdy individualism; equates untrammeled pursuit of self-interest and consumer satisfaction with human freedom; glorify personal wealth; sees volunteerism as the appropriate way to solve social problems, and associates government programs with inefficiency, corruption and incompetence.
+.red[Social imaginary]: __entrepreneurship__, __self-reliance__, and sturdy __individualism__; equates untrammeled __pursuit of self-interest__ and __consumer satisfaction__ with __human freedom__; glorify __personal wealth__; sees __volunteerism__ as the appropriate way to solve social problems, and associates government programs with inefficiency, corruption and incompetence.
 
 
 .footnote[Source: Evans, Peter B. and William H. Jr. Sewell. 2013. ‘Neoliberalism: Policy Regimes, International Regimes, and Social Effects’. Pp. 35–68 in _Social Resilience in the Neoliberal Era_, edited by P. A. Hall and M. Lamont. Cambridge University Press.]
@@ -336,7 +379,7 @@ It fits with cooperate culture, in particular Multi-National Cooperations (MNCs)
 
 - Flow of labor
 	+ From rural to urban within a country
-	+ From developing to developing nations
+	+ From developing to developed nations
 	+ In many cases: body workers are replaced by other body workers, from another country
 
 ### Barriers
