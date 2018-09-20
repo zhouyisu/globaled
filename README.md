@@ -31,7 +31,7 @@ https://store.docker.com/search?offering=community&type=edition
 docker run astefanutti/decktape https://zhouyisu.github.io/globaled/session01 session01.pdf
 
 # copy the .pdf file to your current directory
-docker cp `docker ps -lq`:slides/session01.pdf .
+docker cp `docker ps -lq`:slides/session01.pdf session01.pdf.
 
 # remove the lastest used container
 $ docker rm `docker ps -lq`
