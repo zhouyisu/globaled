@@ -1,0 +1,276 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 09"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/09/24"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: ["wscale.js", "hscale.js", "https://platform.twitter.com/widgets.js"]
+      ratio: "5:3"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Outsourcing
+## Aim
+
+We have talked about knowledge workers and body workers. They represented diverging ways of how we as individual engage in occupational activities. However, regardless of the type of labor one choose to do, globalization also changes how we receive our jobs. This is today's topic: .red[outsourcing]
+1. What is outsourcing?
+2. How does globalization changed outsourcing?
+
+
+---
+## Outsourcing
+
+.violet[The transfer of activities once performed by an entity to a business or businesses in exchange for money]
+
+Complex phenomenon not only in economic sphere, e.g. health care, child care, military, etc:
+- [社會文化司司長譚俊榮解釋內地跨境養老方案](http://www.gsasc.gov.mo/show_news.aspx?lang=cn&newsid=523)
+- [America's private military service goes to China](https://www.washingtonpost.com/news/world/wp/2018/05/04/feature/a-warrior-goes-to-china-did-erik-prince-cross-a-line/)
+
+Not always global .orange[macro-level] in character (i.e. country to country), but regional or local as well. Outsourcing shapes the way we thinking about doing business, working, and how to lead a life:
+- .orange[meso-level]: Restaurants outsourcing the cooking to 3rd parties and simply reheat it
+- .orange[micro-level]: Ordinary people outsourcing the care of their young children or aged parents to institutions or live-in assists.
+
+---
+
+## Outsourcing can happen domestically 
+### Japan mode: Haken Employee 派遣員工
+
+Most people are in permanent "temporary" status <sup>.red[1]</sup>:
+
+>The number of lifetime jobs has been declining for decades; according to government data, part-time positions now make up almost .violet[40 percent] of the workforce. These jobs also earn on average 38 percent less per hour than full-time positions. Temps and part-timers—who often work 40 hours a week—accounted for all of the nation’s job growth in the past five years; 60 percent of employment offers in March were for temporary positions.
+
+
+.footnote[
+English Reference: https://www.bloomberg.com/news/articles/2014-05-29/japans-women-fight-wage-discrimination-in-part-time-economy
+
+Chinese reference: https://theinitium.com/article/20170112-international-JapanTrainee/]
+
+---
+
+
+## Outsourcing can happen between countries
+### Offshore outsourcing 離岸外包
+
+.violet[The transfer of activities to entities in other countries]
+- Typical cases are: Call centers in India & Philippines
+
+Offshore outsourcing not only happens in low-end service sector, but also increasingly in high-tech sector:
+- Information Technology (i.e. CTM)
+- Accounting (i.e. [The Apple's financial magic](https://www.nytimes.com/2018/08/06/opinion/apple-trillion-market-cap.html))
+- Law firms with international branches
+
+
+.violet[In-sourcing] also needs to be considered, as out-sourcing from one country results in simultaneous in-sourcing in another country
+
+---
+
+# A not so common example:
+## Animation Production 動畫製作
+---
+## Anime
+
+> Anime studios mobilize an elaborate and complex .violet[division of labor] in the production process. Some core divisions are hosted in-house (for example, director, character designer, producer), but many others are subcontracted to smaller studios specializing in specific processes (for example, background art, filming/digital composition) as well as to freelancers that make up the majority of animators and episode directors (that is, those who direct particular episodes in a television series). While the Japanese animation industry is clustered in western Tokyo, the two most labor intensive divisions, that is, .violet[in-betweening] and .violet[coloring], are now mostly outsourced to large-scale subcontractors in .green[China], .green[South Korea], and the .green[Philippines].(Kim Joon Yang, 2014)
+
+.footnote[
+division of labor: 勞動分工
+
+in-house: 公司內部
+
+]
+
+---
+
+>Although the bulk of the anime will consist of in-between frames, the creative vision is set by the key frames. It is possible that for some titles nearly all of anime's frames, except for key frames, are not actually drawn in Japan. Consider that there are 24 frames per second. .red[A 30-minute show (about 20 minutes after cutting out opening and ending scenes and commercials) is 28,800 frames.] Fortunately, they don't usually make 24 frames for each second. 12 frames per second is common. Few of them are key frames.
+
+The foundation of animation is _frame_. In traditional animation, each frame is hand drawn. It obviously involves lots of manual work to realize the creative vision of the director.
+
+
+.footnote[
+
+in-between frames: 填充幀
+
+key frames: 關鍵幀
+]
+
+---
+### FPS = frame per second. Obviously more frames = smooth animation = higher quality
+
+.pull-left[
+![](https://i.pinimg.com/originals/96/c5/e8/96c5e8ccf4d95be0a9c2a49014f0feb5.gif)
+]
+
+.pull-right[Source: http://bit.ly/2NrYIQ7
+
+If you care to view an illustrated sample: https://youtu.be/npMreLeVD6o play the video at 0.25x speed of the original speed and you will see the difference]
+
+---
+
+background-image: url(https://cdn.animenewsnetwork.com/images/cms/feature/99852/gurrenkadouga.gif)
+background-size: contain
+
+### Above: jumpy animation with only key frames; Below: in-between frames filled
+
+---
+
+### Many frames involved to make the subject "live"
+
+![:wscale 80%](https://cdn.animenewsnetwork.com/images/cms/feature/99852/layoutdouga.gif)
+
+---
+
+background-image: url(https://cdn.animenewsnetwork.com/thumbnails/fit650x1000/cms/feature/100499/colorsekkei.jpg)
+background-size: contain
+background-position: bottom
+
+### Color finishing: Also require human to fill in different color on each subject
+
+---
+
+>“A third of the labor pool for Japanese animation is actually outside Japan,” says Jonathan Clements, an anime maven writing an industrial history of Japanese animation for the British Film Institute. “I can see that climbing ever higher, until a Japanese animation company is three men in a Tokyo apartment, outsourcing every other aspect of production overseas.” <sup>.red[1]</sup>
+
+
+In addition to the animation industry, video games are also being outsourced, to China: [The Universe Has Been Outsourced: The unseen labor behind the video game industry's biggest titles](https://theoutline.com/post/3087/outsourcing-blockbuster-video-games-made-in-china-horizon-zero-dawn?zd=1&zi=xvrz42bo)
+
+.footnote[[1] Source: https://variety.com/2012/digital/news/japanese-companies-outsourcing-anime-1118049388/]
+
+---
+
+## What is the spirit of this story?
+
+Most creative work involves (incredible) amount of manual work: knowledge work and body work can never be separate from one another
+
+Network and connections are key to understand how outsourcing takes place: 
+- Why Japan choose South Korea, China, and Philippines as outsourcing destination?
+	+ Geographic proximity
+	+ Similar working ethics
+	+ Economic investment history: Japan invested in east Asian countries after it developed, therefore creating structures that other companies could use
+
+---
+## Motivation behind outsourcing
+
+.violet[Cost cutting]: outsourcing saves employers money
+
+.violet[Accelerating innovation and business efficiency]:
+- Agile
+- Lean
+- Speed
+- Streamlining
+- Flexbility & scalability: grow and shrink as required.
+
+.violet[Companies no longer need to develop everything in-house]: They can simply purchase essential services outside
+
+.brown[Concerns]:
+- Data sharing & security
+- Organizattional culture between companies
+- Coordination between senders and receiver of the jobs
+
+---
+### Other processes related to the spread of outsourcing
+
+.violet[Supply-chain] 供應鏈: a method of collaborating horizontally - among suppliers, retailers, and customers - to create value.
+- For any product or service, they were divided into small steps or units and distributed across the globe.
+
+.violet[Technological innovation] (especially telecommunication makes it possible for large scale real-time coordination among companies possible).
+
+What else?
+- Networks were activated (based on common history, cultural ties, language)
+- Structure were created and barriers tear down
+	+ Consultant
+	+ Financial circulation: I want to receive payment for the jobs I did
+
+---
+
+## Creative destruction
+
+Economist Joseph Schumpeter created this term: .orange[while much outsourcing is destructive, in the long run, it is constructive, good for the capitalist system] (i.e. generating new values, creating more jobs, etc). 
+
+More on this: p.189 of Ritzer & Dean
+
+There are two things that are related:
+
+---
+
+class: middle
+
+## 1. The benefit and cost are distributed very unevenly
+- When a job is outsourced, some jobs are inevitably destroyed at the sending end
+- At the receiving end, more jobs are created.
+- It would be hard to move people around (particularly when jobs involved are low-end or low value-added) but much easier to move technology, money, even equipment around.
+
+
+---
+class: middle
+
+## 2. Is outsourcing keep the best interest of you?
+- As a consumer, yes definitely. Outsourcing making products cheaper, bring in more variety.
+- What about when you are working for one of the companies?
+	+ You might lose your original job
+	+ New jobs might be more demanding or pay significantly less
+
+---
+
+## From labor's point of view, these are major concerns from outsourcing/globalization
+
+- We no longer feel safe about our work
+- The idea of "career development" also seems questionable
+	+ outsourcing often involves deskilling, rendering labor less employable in the long run
+	+ empolyers are less willing to invest in workers because they can just purchse another service
+- "loyalty" becomes more and more rare
+
+---
+## How do you protect yourself? - citing Thomas Friedman
+
+.orange[Knowledge]: bring bottom of the basic skills to average. Not just basic literacy. Basic understanding of the industry/technology/people.
+
+.orange[Skills]: what you can do with what you know (i.e. the Google machine "knows everything") therefore you should develop skills that are not easily replacable. 
+
+.orange[Motivation]: information technology has brought the cost of virtually everything down. Virtually all the tools you need to make something is out there. What matters is who is willing to put tools/info together in different ways to complete complex tasks? Who is willing to constantly learn and re-learn? 
+
+.cyan[Everyone is being _forced_ to bring something extra to the table]
+
+.footnote[Source: https://youtu.be/Xww6-KEBPTE]
+
+---
+
+## Some advice from Thomas Friedman
+
+- .orange[Think like an immigrant and stay hungry]. - To be a paranoid optimist with more energy, vigor and greater persistence than anybody else.
+
+- .orange[Think like an artisan 職人/匠人 and take pride]. - Take pride on your work, bring much unique value-add to your work, bring much extra into your work in order to be proud marking your initials into your work.
+
+- .orange[Think like a Silicon Valley startup and always be in Beta status].  - Needs to be 'work-in-progress', and never think of yourself as 'finished'. It requires the ability to learn and relearn in a world of constant change. It's about your mindset that you are a 'work-in-progress' or beta. 
+
+- .orange[PQ and CQ ("Pick You + Seek You")] is always better than IQ. - In a hyper connected word, one with a high passion, high curiosity and high motivation is always better than a person with a high IQ of intelligence.
+
+- .orange[Think like a waitress and always be entrepreneurial]: Even with your tiny discretionary power, you can make difference. 
+
+---
+class: middle
+
+## Sounds neoliberal? Because it is: Ritzer & Dean p.92-94
+
+---
+
+## Resource
+- Rizter & Dean Chapter 7, p.187.
+- [The Universe Has Been Outsourced: The unseen labor behind the video game industry's biggest titles](https://theoutline.com/post/3087/outsourcing-blockbuster-video-games-made-in-china-horizon-zero-dawn?zd=1&zi=xvrz42bo)
+- Joon Yang Kim. (2014). South Korea and the Sub-Empire of Anime: Kinesthetics of Subcontracted Animation Production. _Mechademia, 9_, 90-103. doi:10.5749/mech.9.2014.0090
+- .cyan[How is skilled labor managed internationally to serve an extremely volatile global IT market?]: Xiang, B. (2007). _Global "body shopping": an Indian labor system in the information technology industry._ Princeton University Press.
+	+ Chinese version: 全球"獵身":世界信息產業和印度的技術勞工， 項飚（著）
+- A four-part analysis describing how animes are made (not quite related to today's course but just in case you want to know)
+	+ [Part 1](https://www.animenewsnetwork.com/feature/2016-03-16/your-ultimate-guide-to-anime-ending-credits-part-i/.99852)
+	+ [Part 2](https://www.animenewsnetwork.com/feature/2016-03-31/your-ultimate-guide-to-anime-ending-credits-part-ii/.100499)
+	+ [Part 3](https://www.animenewsnetwork.com/feature/2016-06-03/your-ultimate-guide-to-anime-ending-credits-part-iii/.102826)
+	+ [Part 4](https://www.animenewsnetwork.com/feature/2016-08-17/your-ultimate-guide-to-anime-ending-credits-part-iv/.105472)
+
