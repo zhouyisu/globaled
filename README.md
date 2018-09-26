@@ -15,8 +15,9 @@ To view the slides as they were presented in class, visit:
 - 09/13 https://zhouyisu.github.io/globaled/session07
 - 09/17 Typhoon Mangkhut, class cancelled
 - 09/20 https://zhouyisu.github.io/globaled/session08 (rescheduled)
-- 09/24 https://zhouyisu.github.io/globaled/session09 (rescheduled: a. online lecture; b. consultation with students)
-- 09/27 Session 11
+- 09/24 https://zhouyisu.github.io/globaled/session09 (rescheduled: online lecture)
+- 09/24 Session 10: Consultation, no slides
+- 09/27 https://zhouyisu.github.io/globaled/session11
 - 10/01 Session 12: National holiday, NO CLASS
 - 10/04 Session 13
 
