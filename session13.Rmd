@@ -1,0 +1,389 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 13"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/10/04"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: ["wscale.js", "https://platform.twitter.com/widgets.js"]
+      ratio: "5:3"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+
+# Global flows of people
+
+## Aimes
+To consider different types of global flows of people
+
+To examine the push and pull factors involved in shaping flows of people
+
+To examine the structures that expedite 加速 or impede 抑制 (i.e. barriers) flows of people
+
+---
+
+.pull-left[
+<blockquote class="twitter-tweet" data-lang="en"><p lang="zh" dir="ltr">“每年十月一日，又到了中国潜水员交配的季节。他们不远万里，成群结队的来到东南亚各珊瑚礁海域，觅食、产卵。这是一趟非凡的旅程，他们将冒着被海洋大型掠食者捕杀、海洋船只螺旋桨、以及海洋内不稳定洋流的危险，进行为期7天的交配。然后再各自返回他们的栖息地。” <a href="https://t.co/AdaqvGO3YJ">pic.twitter.com/AdaqvGO3YJ</a></p>&mdash; Maki.🌺 (@makittsp) <a href="https://twitter.com/makittsp/status/1045984361349144576?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
+]
+
+.pull-right[ .green[Translation:] Every October 1st is the mating season of Chinese divers. They traveled thousands of miles in teams and groups to the South East Asian coral reefs for food and mating. This is an extraordinary journey: These divers risked their lives of being eaten by large sea predators, strangled by ship propellers, and carried away by unstable ocean currents. They mated during these 7 days and returned to their habitats.]
+
+---
+## People flows
+
+Globalization can be seen to have .green[expedited] 加速 global flows of people, although there is a long history of exodus and travel throughout the world
+
+
+Flows of people: 
+- .orange[Migrants/ immigration] 移民: People who live in a country where they were not born and have important social ties to that country
+- .orange[Human trafficking survivors] 人口販運
+- .orange[Tourists] 遊客
+
+---
+
+## Migration/Immigration
+
+.pull-left[
+
+Includes:
+- Temporary labor migrants 臨時性勞工移民
+- Highly skilled migrants 高技術移民
+- Forced migrants 強制移民
+- Family reunification migrants 家庭團聚
+- Return migrants 返鄉移民 
+
+Difference compared to historical trends:
+- Migration from developed countries declining
+- Number of migrants from developing countries increasing
+
+]
+
+.pull-right[
+
+Problems involved in tracking flows:
+- Lack of or inadequate data collection
+- Use of different definitions and measures
+- Little tracking of expats <sup>.red[1]</sup>
+- Lack of information on undocumented immigration
+
+.footnote[ [1] expats is short for .violet[expatriate]  移居外國的人]
+
+]
+
+---
+
+## Example: Macao as a "floating city"
+
+.kt[2016中期人口統計結果顯示，今年8月澳門人口共650,900人，較2011人口普查的552,503人增加17.8%；過去五年澳門人口的年平均增長率為3.3%，高於2006至2011 年的1.9%。在澳門居住的外地僱員較五年前大幅增加68.8%至105,200人；而不包括外地僱員及外地學生的本地人口有536,400人，升幅為10.5%。]
+
+
+.footnote[Souce: http://www.dsec.gov.mo/Intercensos2016/SurveyRespondentsCorner/MechanismVisitWorkflow.aspx]
+
+There are about .violet[18%] of Macao population who work and live in Macao actually are not technically "Macao".
+
+Some additional questions:
+- How to identify .green[migrant worker] (外地僱員)?
+- What about those who .green[move across boarder everyday]?
+- What about those .green[Macau residents who live in Zhuhai]?
+
+---
+
+## The push/pull framework
+ to understand the flow of people
+.orange[Push] factors might include:
+
+- Political persecution 政治迫害
+- Economic depression 經濟不景氣
+- War 戰爭
+- Famine 饑荒
+
+
+.orange[Pull] factors might include:
+
+- Favorable immigration policies 更優厚的移民政策
+- Labor shortage 勞工短缺
+- Similarities in culture and language 文化、語言的相同性 (i.e. colonial linkage)
+- Social networks (i.e. 同鄉會 an association of fellow provincials or townsmen)
+
+---
+
+Many restrictions 限制 to migration still exist, motivations include:
+- Desire to retain labor so can compete in global markets
+- Influx of immigrants can cause local conflicts
+- Concerns about terrorism encourage or justify strict restrictions on flow
+- Diluting 稀釋 of identity
+
+Closely related to role of nation-state: .violet[limited & bounded, identifying "otherness"]
+
+---
+
+## Analysis: Singapore's immigration policy
+
+__Case:__
+- English version: https://www.sbsgroup.com.sg/blog/revised-singapore-immigration-policies/
+- Chinese version (slightly more detailed): http://bit.ly/2NieMyE
+
+__Questions to consider:__
+- Who can immigrate? Why Singapore allows immigration
+- What are the benefits?
+- What are the push & pull factors?
+
+---
+
+## Push factors
+
+- Push factors are gender/class - specific
+
+- Not-ideal living conditions:
+	+ Environment too crowded
+	+ Housing too expensive
+	+ Environmental condition is bad
+	
+- Access to better job markets (e.g. better pay & working environment)
+
+- Identify with foreign culture
+
+- Better education for children
+
+
+---
+
+## Pull factors
+
+- .violet[Aging population] 人口老齡化: shortage of young people
+
+- .violet[Skills shortage] 勞動技能短缺: highly skilled, entrepreneurship
+
+- .violet[Capital shortage] 資本短缺: seeking external funding or capable business man to boost economy
+
+- Talent recruitment
+
+- Social, economic, political benefits
+	+ More efficient governance
+	+ Less corruption
+	+ Less taxes
+
+- Ease of travel 
+
+- Geographic location 地理位置
+
+---
+## Labor migration
+
+>one who is forced or has chosen to search for work outside her/his home country by "push" and "pull" factors
+
+May be temporary or permanent: _ranging from weeks to years_
+
+Mainly (in terms of sheer number) involves flow of .green[low] or .green[un-skilled work] and .green[undocumented] immigrants, but can also be highly skilled knowledge workers (small in number but highly compensated)
+
+Many barriers to flows still exist:
+- Economic cycle in hosting region
+- Religious difference
+- Domestic labor protection; Quota on foreign labor
+- Relationship among sending and hosting countries/regions
+
+---
+
+### A parallel process: "Low end globalization" 低端全球化 by Gordon Mathews
+
+.pull-left[
+![](https://www.hongkongfp.com/wp-content/uploads/2017/06/gordon-mathews_d.jpg)
+
+- mostly small merchants, construction workers, traders..
+]
+
+.pull-right[
+![](https://www.hongkongfp.com/wp-content/uploads/2017/12/000_Hkg9003972.jpg)
+]
+
+---
+
+## Dynamics of labor migration
+.violet[Remittances] 匯款: accounts for significant share of sending countries' economy
+
+
+.violet[Diaspora] 移民社群: 
+- The Turkish case. There are about 1.5 million people living in Germany holding Turkish citizenship. They represented very important political resources <sup>.red[2]</sup>
+
+Because many immigrant are entrepreneurs, scientists, social innovators, policy makers have been studying: .violet[Brain drain] and .violet[Brain gain] 人材外流 & 人材聚集. National government (such as Singapore) particularly concerns about attracting talented people:
+- "Brains are everywhere"
+
+.footnote[ [2] For more explanations: http://www.politico.eu/article/turks-abroad-play-pivotal-referendum-role-netherlands-erdogan-diaspora/]
+
+---
+
+## Forced migration
+
+.violet[Refugees] 難民: those forced to leave their homeland, or who leave involuntarily, because they fear for their safety
+
+
+.violet[Asylum seekers] 政治庇護: refugees who seek to remain in the country to which they flee
+
+
+Example: Syria refugee crisis http://www.syria-visualized.com/
+
+---
+
+## Human trafficking
+
+> The recruitment and movement of people through force or coercion, for purposes of sexual exploitation or forced labor
+
+
+700,000–2 million people trafficked/year
+
+Has increased dramatically since early 2000s
+
+Coordinated through transnational criminal networks
+Highly profitable "industry"
+
+---
+
+### Sex trafficking:
+- Victims used as sexual slaves or sold to pimp
+- Most common recruitment method is through deceitful job offer
+- Mostly women and girls, but also boys
+- Various tactics used to keep victims from running away
+
+
+### Labor trafficking
+- Forced labor
+	+ domestic workers (see next slide)
+	+ fisherman ([a case of Taiwan](https://www.twreporter.org/topics/far-sea-fishing-investigative-report))
+- Interactive table: http://got-data.blogspot.com/2014/03/cost-of-human-life-and-human.html
+
+---
+
+background-image: url(https://cdn.theatlantic.com/assets/media/img/2017/05/02/WEL_Tizon_Lola_Lead_16X9/1920.jpg)
+background-size: contain
+background-position: top
+
+### Further read: My family's slave
+
+.footnote[
+Synopsis: 
+
+她與我們家人一起生活了五十六年。她帶大了我和我的兄弟姐妹，從早到晚做飯做清潔，從來沒有工資。十一歲的我，一個典型的美國孩子，意識到她其實是我們家的奴隸。
+
+
+She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was. 
+
+]
+
+---
+
+## Tourists
+Those on the move as they want to be; travel for pleasure
+
+Nation-states facilitate some of these flows, but some barriers to movement exist and impact different groups and places unevenly:
+- [Chinese tourists in South Korea](https://theinitium.com/article/20170215-international-youke/)
+
+One of the structures that can either expedite or impede tourism is .violet[geopolitics] 地緣政治
+
+---
+
+background-image: url(https://d32kak7w9u5ewj.cloudfront.net/media/image/2017/02/a5c2869313f4438292a1703f038e578d.png?imageView2/1/w/1080/h/720/format/jpg)
+background-size: contain
+
+---
+
+## Tourism
+
+Growth facilitated by reduced costs in transportation, but still mainly restricted to elites & middle class in North
+
+
+Specialized forms developing, e.g. eco-tourism, adventure tourism, ethno-tourism
+
+
+Flows from developed to less developed countries can be for tourism but also economic, i.e. low-cost products and services (e.g. medical tourism):
+
+- Biggest destination for medical tourism in Asia: Thailand <sup>.red[3]</sup>.
+
+.footnote[ 
+[3] Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3883860/ 
+
+]
+
+---
+
+## EDU Tourism
+
+![:wscale 55%](./pic/edutourism.jpg)
+
+.footnote[Source: http://www.scmp.com/news/china/society/article/2107398/inside-us45-billion-business-education-tourism-latest-frontier]
+
+---
+
+class: inverse, middle
+
+### One last thing. Immigration at global scale begs one question eventually:
+
+# WHO AM I?
+Where should I be?
+Who can I trust?
+Who are my friends? 
+
+
+---
+
+### Meet Greg Lam who is a popular YouTuber with the .yellow[Life Where I am From] project 
+
+![:wscale 60%](https://cdn.japantimes.2xx.jp/wp-content/uploads/2016/10/p9-st.-michel-lwif-a-20161024.jpg)
+
+- https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA
+- Greg himself is we today call "multi-ethnicity": he is Chinese, Scottish, Spanish, Portuguese, Mayan
+
+---
+
+## Does racial/national identity matter?
+
+It sure does. But does it mean ".violet[they]" can nevern be ".violet[us]"?
+
+There are certainly many answers but one thing is clear: when we reach global interconnectedness, this question becomes more important than ever:
+- Social policy is constructed around identity
+- Identity politics is central to all political process around the world
+- Two extremes: .orange[transhumanism] 超人類主義 at one end and .orange[political tribes] 政治部落 at the other.
+
+---
+
+# .red[Summary]
+
+Global people flows are not new but increasing and becoming more complex, multidirectional
+
+
+Whilst barriers impact flows of migrants, low-skilled migrants are most significantly impeded (i.e. "we want you but we don't want you forever")
+
+
+Nation-states have a significant role to play
+
+
+Flows of people have generally been treated very differently to political, economic, and technical flows
+
+
+Many barriers remain, some increasing, depending on type and direction of the flow of people
+
+---
+
+## Resources
+
+- Content is taken from Rizter & Dean, Chapter 10
+- About identity
+    + What is transhumanism? https://en.wikipedia.org/wiki/Transhumanism
+    + What is political tribes? https://law.yale.edu/yls-today/news/professor-amy-chua-publishes-book-political-tribes
+    + A middle ground? [Why anyone can be Chinese by Daniel Bell](https://www.wsj.com/articles/can-anyone-be-chinese-1500045078)
+- Gordon Mathews interview
+	+ English: http://bit.ly/2y6jj1S
+	+ Chinese: http://bit.ly/2OrCGMW
+	+ His book: _The World in Guangzhou: Africans and Other Foreigners in South China’s Global Marketplace_ 世界在廣州：南中國全球貿易市場中的非洲人和其他外國人
+- My family's slave: Lola's story
+	+ English version: https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/
+	+ Chinese version: https://mp.weixin.qq.com/s/d7_ygIwiabQfNbnLxQtgkg
