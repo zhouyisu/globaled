@@ -21,6 +21,7 @@ To view the slides as they were presented in class, visit:
 - 10/01 Session 12: National holiday, NO CLASS
 - 10/04 https://zhouyisu.github.io/globaled/session13
 - 10/08 https://zhouyisu.github.io/globaled/session14
+- 10/11 https://zhouyisu.github.io/globaled/session15
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
