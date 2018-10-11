@@ -28,13 +28,14 @@ options(htmltools.dir.version = FALSE)
 - _Key points_: use the concepts, finding, or theory taught in this course to construct your story.
 
 .green[Why can't we just send you a ppt?]
-- Because I want you to tell the story using your voices.
+- Because I want to hear your voices.
 
 .green[Format:] .violet[video].
 - 10 min in length, no more than 15 min
 - You can either
   + Record using your cellphone
   + Capture a screen with narration (For example session 9)
+- mark contribution of each member (i.e. role, the percentage of work)
 - upload _twice_ to Moodle (one for me and one for your peers), 10/11 - 10/20
 
 ]
@@ -54,6 +55,7 @@ options(htmltools.dir.version = FALSE)
 - Analysis: theories, data, explanation (.red[+])
 - Coherence of the story & narration (.red[+])
 - ENGAGE your audience (.red[+])
+- .red[20 pts] from presentation + .red[10 pts] from giving feedbacks
 - Bonus points: production value (i.e. lighting, effects, editing, etc)
 
 ]
