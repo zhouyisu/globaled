@@ -1,0 +1,369 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 15"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/10/11"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: ["wscale.js", "https://platform.twitter.com/widgets.js"]
+      ratio: "5:3"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Negative global flows
+## Aims
+To examine "negative globalization"
+
+To consider the impact of these flows on individuals & the planet
+
+---
+
+## Negative globalization
+
+Globalization facilitates the flow of many negatives across borders at great speed
+
+Common examples include:
+- Dangerous imports
+- Borderless diseases
+- Crime
+- Terrorism
+- War
+
+Involves .violet[flows], .violet[processes], and .violet[structures] (sometimes __intended__, often __unintended__)
+
+---
+
+### Borderless diseases
+Diseases crossing borders is not new, but the .violet[speed] and .violet[extent] are in current age
+
+This is particularly affected by the increased movement of people throughout the world (global people flows) 
+
+.orange[Uneveness:] Less-developed nations are more likely to suffer and least likely to have access to medications and health care (also true for some poor within rich nations)
+
+### Examples
+
+.orange[HIV/AIDS]	
+- Particularly devastating in Africa 
+- As with other diseases, the necessary medications available in the North are less accessible in South (i.e. price)
+
+.orange[Flu ] – Number of pandemics, latest bird flu (H7N9)
+
+.orange[Ebola virus] – high death rate, impact usually limited by rapid global response
+
+---
+
+.pull-left[
+### Crimes
+
+Globalization linked to an increase in .violet[magnitude] and .violet[value] of cross-border crime
+
+Can include: .green[drugs], .green[money], .green[victims], .green[criminals], .green[stolen] and .green[illegal goods]
+
+Global attention to this flow has also increased
+
+Decreasing power of nation state makes barriers to such flows more difficult
+
+State does retain 保留 power to _define_ what is illegal – with some states able to impose their norms on other parts of the world
+
+]
+
+.pull-right[
+
+### Terrorism
+
+.green[Actions that cause death, serious bodily harm, and serious damage to public or private property, places, facilities, or other systems]
+
+Closely related to crime, e.g. financially
+
+Stateless terrorism, e.g. al-Qaeda 基地/蓋達
+
+State-sponsored terrorism 
+
+Global aspirations and reach via technologies
+
+Counter-reaction increasingly global 
+
+Tactics raise human rights issues: e.g. drone 無人機
+]
+
+---
+
+![:wscale 80%](https://www.scmp.com/sites/default/files/2014/03/04/10bedf3aa5bcbf2c0a525db2e4cf62ec.jpg)
+
+.footnote[Source: https://www.scmp.com/business/money/article/1440524/money-laundering-huge-hong-kong-and-macau-crime-survey]
+
+---
+
+## But let's look at a more mundane issue today
+
+.pull-left[
+
+<a href='https://photos.google.com/share/AF1QipORJzxgwfzrdekLHYJHDbU99ePT9HvN0lp-GI6dRT8ADnSlD2EwKw-XAo-FOefqyw?key=UWI4ZzlqaGF2NXN2SFRrV2V1Smh1ZWg1ZkNHYld3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/N_4Hm7jMyXqufg_qFWvXOSQyH-6T7xegriVaJowobJ4Ordiz4yr373oGm-nUk1-MKcfhDD46XxLqw-Q6TxP6SMhTygyE8SoAQa752gWaMhVGys_a1lAmlo6m9MOP4Ay2RTUv9Uuj2LA=w2400' /></a>
+
+]
+
+
+.pull-right[
+
+<a href='https://photos.google.com/share/AF1QipMWCG3mwbEbnlCwNna0vpiZkJAbRY9ZSg19nZ5quCNicKQlZ9QMksCvN46RYFkyXw?key=SzVMbXU4T2NxRkd5YlpqSkE3REhyY3JkWE9rYnZ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/UX5fOelzknZpsn8ankvqM5Lcb9IMbFjWY7bLJtSBZg0HRaImugGl1T6DC4BSSFxgYe_qRnzw7JSMLgeyaQpQg1k4kEqoiD4rQKngTtILzDGrgJw67XGHGIR3KLjZvn5ZTwXaUgM0L74=w2400' /></a>
+
+]
+
+---
+
+.pull-left[
+
+<a href='https://photos.google.com/share/AF1QipNY2ZzgGIZRVfdy11DvVhNFJXTVHf5IbAZaQ5fIcf5K0kDtJ6Thuemzg_EgGVvzTw?key=cUtWUFk3NGMxV05tWG1IY3htaGVWalBDQ2swVnJ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/iHyGF5IjtSaC4OBUqfxzwzW1SRcnKw5Adl2MViUGHauLa1qkll44HSR64XEc26pYp9yLFxiAZENC3bY8F0gbeziQ5LbdNcyTmWWzVJKlw9mD0R6cqbePJtQ2xXETpFawnz7rLTRMAr4=w2400' /></a>
+
+]
+
+
+.pull-right[
+
+<a href='https://photos.google.com/share/AF1QipON8HZ3VJPnh_SqSD1GsOQjh3MbdmOpCuQCsf8g3migYZ4UyuZjCCTrl599V0SkOg?key=RGVKTjY5dHNCQUR1YW85eUh3ZXFmc1lpMEFkZThB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/afBjlrhWn6WBt2Zt9T3n9KG4v5U2QwDNz6hds5hIgw9dzNrD0a9KS6azd-48Gz9nGwpkHkNROAosaTfmlnwF47FNHMjqrfBpBdEOQOWbC3rDm7EJUF5e45ZUdDTVIqFxxT2S7q_n3C4=w2400' /></a>
+
+]
+
+---
+
+.pull-left[
+
+<a href='https://photos.google.com/share/AF1QipMBhzKsdONGCQPnx8VpUigDGsmP4Hdvi5vSh4YDAxHKpKbN23oDBRbwBVbECZNXuQ?key=QXZSQmNSMUFlOWQ3Tm1JQmc0UVk3TjNXVHdMVjh3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/PphqhBRBzZ0B1WvlCipzyEbnPV6nmOLCuQc_oUbEGg046DclfC9y-_vvCaBQbJA4D2StBVBTVq6-Eb8mAotEQUUVNH6-FZoZ5QJiIZlHhvMiB_5M4UPlcrsMU7U1-2tr9OIV7TThgCQ=w2400' /></a>
+
+]
+
+
+.pull-right[
+
+<a href='https://photos.google.com/share/AF1QipN_grMyDByRYifF3b2ZmeiFuWoJIhf1rvXzzZa49AJ8-rxwYV3wuOfrwXJUk0o7nQ?key=SUFkdWV0Ym1XREVGZHp2bWxKNEVpTlFLQ2NEX0dR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/83r5Q8mj3AyT61ejcQss52wmJVED4AYT7d-an-5dPMaaKIrVOeB5Szn3gz1KgFfAR1t9wHVExBT8aD1z-9-mvd6A0zgQ7Zcg4dBc2xzfp6kgq7LS2zPL4TPrP7PPHFwYrmtyJJXHTWE=w2400' /></a>
+
+]
+
+---
+
+background-image: url(https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/south_pole_pic1.51952976.jpg)
+background-size: contain
+
+## .violet[Antarctic krill 南極磷蝦]
+
+---
+class: middle, center
+background-image: url("./pic/antarctic.png")
+background-size: cover
+
+## 「靠山吃山，靠海吃海」
+## If you live on a mountain , you live off the mountain ; if you live by the water , you live off the water
+
+# But you cannot find Antarctic krills 南極磷蝦 in any regular water
+
+---
+
+
+background-image: url(https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/south_pole_pic2.75eaa43d.png)
+background-size: contain
+
+
+.footnote[Image credit: https://theinitium.com/project/20160825-taiwan-fisheries-web/]
+
+---
+
+## .red[Technology] intensive & .red[Capital] intensive
+
+Distant fishing uses highly specialized vessels:
+- powerful
+- fast
+- wind-resist
+- work in icy environment
+- Very few countries can actually build this type of ship
+
+>明開輪，總噸位7765噸，總長120.7米、船寬19米、型深12.22米、主機功率5300千瓦，日加工能力200噸。1993年由德國製造，在2013年仍保有的紀錄是亞洲最大的拖網漁船。以中國十大漁船標準化型號中的「41.38米鋼質拖網漁船」——長度41.38米，寬度7.2米，型深4.0米，排水量600噸——做為參照。明開輪的排水量是標準化拖網漁船的13倍，遑論外型尺寸的差距。明開輪有足夠的抗風浪能力，處在10級別風浪下，仍然能逆風作業，並且破冰能力強。」
+
+
+---
+
+### Is it profitable? Some are
+
+![:wscale 45%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/baichang.27bdd751.png)
+![:wscale 45%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/lingxia.ef7a5976.png)
+
+![:wscale 45%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/mingxia.3886327e.png)
+![:wscale 45%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/youyu.aea51c1a.png)
+
+---
+
+## .orange[Others are questionable]
+
+![:wscale 80%](./pic/antarctic2.png)
+
+---
+
+## China's distant fishing is heavily relying on policy
+
+.violet[Background:] Near-sea fishing resources nearly depleted in recent years. National level policy therefore "encourages" Chinese fisherman go abroad. 
+
+Because the cost of distant-water fishing is very high, many companies found it hard to make a profit, unless:
+
+>.green[Original:]「柴油補貼意味著你走多遠，就補貼多少，一路走一路補。」
+
+>.green[Translation:] Diesel subsidy means no matter far your ship goes, the subsidy follows it.
+
+
+The kind of policy that encourages seaman to go afar.
+
+---
+class: inverse
+
+### China's fast growth in fishing output is a combination of market demand and policy stimulation
+
+![:wscale 80%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/intro_pic2.c16a8ec8.png)
+
+---
+
+## Fishing is also labor intensive 勞動力密集
+
+Due to the harsh working conditions, many of the labors working in the industry are .orange[_forced_]
+
+![:wscale 48%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/guandao_pic2.7b530dcb.jpg)
+![:wscale 48%](https://theinitium.com/project/20160825-taiwan-fisheries-web/static/media/hualian_pic6.c891bdd4.jpg)
+
+.footnote[Image credit: https://theinitium.com/project/20160825-taiwan-fisheries-web/]
+
+---
+
+### .red[Negative flows]: More than 40,000 Indonesia labor working on Taiwannese fleets in the fishing industry
+
+https://www.twreporter.org/a/far-sea-fishing-tempo-report
+
+![:wscale 90%](https://www.twreporter.org/images/20170110173204-1286cafbe309c3ac5917feaa6c833bc4-tablet.jpg) 
+
+---
+
+## .red[Structure]: Global fishing quota
+.green[The amount of fish each country could catch in the ocean every year is detemined by quota, but more often countries go over the quota limit] But many countries over-fish.
+
+![:wscale 80%](https://media.treehugger.com/assets/images/2013/04/Fishing-map.jpg)
+
+.footnote[Source: https://onlinelibrary.wiley.com/doi/epdf/10.1111/faf.12032]
+
+---
+
+## .red[Barrier]: Pirates
+Negative flow: more pirates in western africa & Indian ocean today.
+
+![:wscale 65%](https://d32kak7w9u5ewj.cloudfront.net/media/image/2016/12/eed636b6f0474781a6a68566edefb81b.jpg)
+
+.footnote[Source: https://theinitium.com/article/20161209-taiwan-pirate1/]
+
+---
+### With an improved economy, more urban population, and endless appetite
+
+<iframe width="1000" height="500" src="https://pmdvod.nationalgeographic.com/NG_Video/452/455/1141860931752_1516662546334_1143013443909_mp4_video_1024x576_1728000_3.mp4?autoplay=1&loop=1" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+class: middle
+
+### Oceans are just as globalized as lands
+### Governed by different set of rules but still competed among nation states
+
+# .brown[However, globalization in the oceans is much more difficult to "manage"]
+
+---
+
+## .red[Unintended consequences:] What are we really eating & drinking?
+
+Fish mistaking plastic debris in ocean for food, study finds
+
+![:wscale 70%](https://i.guim.co.uk/img/media/ed0f2a7cab72c12383a464d1be889bd4b1921be0/0_0_5315_3189/master/5315.jpg?width=620&quality=45&auto=format&usm=12&fit=max&dpr=2&s=8dd1942fed2d628b8b46c3d974d23004)
+
+---
+
+## .red[Unintended consequence:] Microplastic pollution in oceans
+
+A plankton 浮游生物 has eaten a blue plastic fibre about 3mm long. Plankton support the entire marine food chain.
+
+![:wscale 75%](https://i.guim.co.uk/img/media/f88f7882166ee14ea54ce6a3f451fe6e93a2866c/0_0_1240_692/master/1240.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=42ae463d6d4f79e451695a6cb1bac750)
+
+
+---
+
+### Plastic fibres found in tap water around the world
+
+![:wscale 75%](./pic/plastic2.png)
+
+---
+
+Where do they coming from? According to the Guardian: ".green[A magnified image of clothing microfibres from washing machine effluent. One study found that a fleece jacket can shed as many as 250,000 fibres per wash.]" Water has no boarder
+
+![](https://i.guim.co.uk/img/media/6b3a18be5d7a2e1dc22438573fd6c3b51b88a79a/0_35_800_480/master/800.jpg?width=620&quality=85&auto=format&fit=max&s=4cb62d40f433d99154480b5d4fde8950)
+
+.footnote[Source: https://www.theguardian.com/environment/2017/sep/06/plastic-fibres-found-tap-water-around-world-study-reveals]
+
+---
+Much sea salt around the world is contaminated by tiny plastic
+
+![](https://i.guim.co.uk/img/media/95d98128159a34d14a6f444b852e5a78d6379dc1/0_2651_4000_2400/master/4000.jpg?width=620&quality=45&auto=format&usm=12&fit=max&dpr=2&s=0ac59427b17ae2d12515efbe37dd0370)
+
+---
+
+## Impact of negative flows 
+
+Every negative flow can and does affect the lives of individuals in profound ways, such as:
+
+- The insecurities and pain brought by ill-health
+- Endless extraction of natural resources leading to depletion
+- The daily exploitation of unprotected workers in global value chain
+
+__The human cost__: Globalization (or at least its negative elements) as "toxic" to individuals and their emotional lives
+
+Unlike other processes, negative flows due to globalization can be unintentional but its consequence can be deadly, uncontrollable, and global. Rational choices may have irrational consequences.
+
+---
+## .red[Summary]
+
+Negative globalization involves dangerous flows, processes, and structures
+
+Dangerous imports, diseases, crime, terrorism, and war can all flow through borders and most are doing so at increased speed and volume
+
+Attempts to erect/maintain barriers can be hampered by the declining power of nation-state, but also involve new technologies and alliances 
+
+The direct effects of globalization on individuals should not be lost in studying at the global level
+
+---
+
+### What cost are we paying to satisfy our lives?
+
+<iframe width="1000" height="500" src="https://pmdvod.nationalgeographic.com/NG_Video/449/603/1140784195788_1516407260413_1141207107927_mp4_video_1024x576_1728000_3.mp4?autoplay=1&loop=1" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+.pull-left[
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Small shark heads are set out to dry in Mauritania (shark fishing is illegal there). The fins are sent to China and the heads and meat are sold in Nigeria and Spain”<a href="https://twitter.com/NatGeo?ref_src=twsrc%5Etfw">@NatGeo</a> <a href="https://twitter.com/GeoSteinmetz?ref_src=twsrc%5Etfw">@GeoSteinmetz</a>     <a href="https://twitter.com/hashtag/sharks?src=hash&amp;ref_src=twsrc%5Etfw">#sharks</a> <a href="https://twitter.com/hashtag/illegalfishing?src=hash&amp;ref_src=twsrc%5Etfw">#illegalfishing</a> <a href="https://t.co/AFHwUNwo4g">pic.twitter.com/AFHwUNwo4g</a></p>&mdash; Badar Salem (@BadarSalem) <a href="https://twitter.com/BadarSalem/status/1000306516883329024?ref_src=twsrc%5Etfw">May 26, 2018</a></blockquote>
+]
+
+.pull-right[
+
+## The Specter of nature never left us.
+]
+
+---
+
+## Resources
+
+- Why plastics? https://www.theguardian.com/science/audio/2017/aug/30/plastics-a-villainous-material-or-a-victim-of-its-own-success-science-weekly-podcast
+- Plastic fibres found in tap water around the world, study reveals https://www.theguardian.com/environment/2017/sep/06/plastic-fibres-found-tap-water-around-world-study-reveals
+- Fish mistaking plastic debris in ocean for food, study finds https://www.theguardian.com/environment/2017/aug/16/fish-confusing-plastic-debris-in-ocean-for-food-study-finds
+- Sea salt around the world is contaminated by plastic, studies show https://www.theguardian.com/environment/2017/sep/08/sea-salt-around-world-contaminated-by-plastic-studies
+- How China Plans to Feed 1.4 Billion Growing Appetites https://www.nationalgeographic.com/magazine/2018/02/feeding-china-growing-appetite-food-industry-agriculture/
