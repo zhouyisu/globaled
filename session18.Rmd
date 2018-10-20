@@ -1,0 +1,303 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 18"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/10/22"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+
+# Culture & Learning
+## Recap of the documentary
+
+Follows 3 characters who plays the game .cyan[Starcraft] 星海爭霸/星際爭霸:
+- Lee Jaedong 李帝東: A sucessful pro gamer
+- Kim Joon Hyuk 金俊赫: A semi-pro
+- Park Yo Han 樸燿漢: An aspiring 16 year old who wants to be a pro. 
+
+---
+
+### Jaedong aka "The Tyrant" 
+
+A Starcraft legend who retired at age 26
+
+![](https://images2.minutemediacdn.com/image/upload/c_scale,w_912,h_516,c_fill,g_auto/shape/cover/sport/579a1885d020bf7dbf000001.jpeg)
+
+---
+
+## Culture influence of schooling
+
+In Asia, we are acustomed to .violet[competitive schooling], where students compete on tests with each other. This aspect of schooling changes the movitational drive 改變學習動機: .orange[When the means become an end] 當手段成爲目的:
+- increases .violet[extrinsic motivation] 外在動機
+  + Study hard so I can be a winner
+  + Study hard to win recognition from teacher & parents
+  + Study hard for a good job
+  + Study hard for a change of life chances
+- diminishes .violet[intrinsic motivation] 內在動機 
+  + _Curiosity_ : I want to know more
+  + _Self-awareness_ : What does this knowledge speak to me? 
+  + _Fulfillment_ : I am reaching toward this learning goal because I am really interested.
+
+---
+
+## We rarely thinks about the "why" question in everyday schools
+
+If you visit a typical classroom and listen to what the teacher tells students to do: http://www.timssvideo.com/ 
+- Many study assignments
+- Exam instructions
+- Drills and practice
+
+.violet[Why the students should perform these tasks?]
+- You typically hear a narrow, instrumental goals, such as doing well in the class, getting good grades and avoding failure.
+- The value of learning a specific skills for its own sake
+
+
+---
+
+Very rarely will you hear the teacher discuss with students .violet[broader purpose that any of these goals might lead do]:
+- Why do people read or write peotry?
+- Why do scientists split genes?
+- Why, indeed, did I myself work hard to become a teacher?
+
+Some one wrote in the quiz answer:
+
+>Is it all about going to school and getting some degree. Note that will be narrow definition. Actually, education is an enlightening realization of the essence of life. 
+
+---
+
+## What is the goal of schooling? or Why do you go to school?
+
+1. .violet[As a learning institution]
+  + promote teaching and learning
+
+2. .violet[As a social/economic/political institution]:
+	+ socialization 社會化 (i.e. making friends)
+	+ mandatorily keeping children off the streets
+	+ forge a common national/cultural identity
+
+3. .violet[Facilitate social mobility] (i.e. changing one's life chances)
+	+ Competition
+	+ Meeting occupational demands (formation of certain skills)
+
+
+---
+
+## Compulsory nature of education in modern society
+
+Why we, the adults in general, would force you, the child learner, in school?:
+
+>The value of such (intellectual) knowledge to individual would-be knowers is difficult to ascertain because much of it is subsidized by society (or rather by acts of legislatures and executive decisions made by people spending other people's money). The need for subsidies is explained by the fact that the taste for intellectual knowledge is an .orange[acquired taste]<sup>.red[1]</sup> , and that it can be acquired .violet[only if large doses of intel­lectual knowledge are forced upon or thrust upon rather unwilling individual investors].
+
+Economist Fritz Machlup, _Use, value, and benefits of knowledge_ (1980)
+
+
+.footnote[[1] .orange[acquired taste]: 後天培養的品味]
+
+---
+
+### Or put it simply
+
+.violet[you, as a student, are going through a __mandatory process__ that is sanctioned by society at large]:
+
+- The learner does not come to school at her/his own will in most cases
+
+- The content and procedure of learning are created by someone else (and most likely, not tailor-made for you) by the reason not explained to the learner
+
+- The learner does not sign up for competition (exam) at her/his own will but will be evaluated/assessed/judged by the result of it
+
+
+### These are the norms from the past (more exactly, 18th century Prussia). What has changed for today's school & students?
+
+---
+
+## What has changed for today's school & students?
+
+In the past, public schooling is the __only approach__ toward these goals besides private tuition.
+
+But now, __new pathways emerged__ in the globalized age, which might make _schooling_ less relevant, less attractive, and maybe even less legitimate. 
+
+Please note that it is the schooling that is under attack, not education.
+
+---
+
+We traditionally divide students into ".violet[college bound]" 上的了大學的 and ".violet[non college bound]" 上不了大學的, but individuals are increasingly able to find new arenas to put their talents in (at 17:00 mark of the doc):
+
+>In the 21st century, people like you, who are agile and quick decision makers, will play an important role in the society. And what's the key thing here? Games. And who's the best in the world at games? You guys. Am I right? People say "__Work when you work and play when you play__". That is an old-fashioned concept. __Nowadays they are converging__. This day and age, there's been a change. __The ones who work more can also play better. And the ones who play better increase their productivity__. 
+
+> .kt[在21世紀，像你們這樣機敏果決的人，將會是社會上的中流砥柱。什麼是韓國的重要產業？遊戲產業。誰是遊戲世界中的頂尖份子？就是你們，對不對？。俗話說工作歸工作，遊戲歸遊戲。但這種想法已經過時了。現在是個匯流時代，工作越是認真的人，遊戲玩得越好。而遊戲玩得越好，就越能提升工作產值。] 
+
+If you recall, in Session 7 (Knowledge Worker), we already witness a version of this in the case of WillNe, the Youtube vlogger. He benefitted from youtube, being the global platform, which directly reaches millions of his subsriber. He also dropped out of college
+
+---
+
+## The culture of learning & education is changing
+Personal ambition can be achieved through multiple paths 個人的雄心可以在不同渠道獲得實現
+
+
+Learning in the digital era is no longer bounded by schools. 數字時代的學習，學校不再是知識唯一的來源
+
+
+Changing school environment 改變中的學校環境:
+
+
+- Students are increasingly connected, informed, and attracted by the world beyond school wall, physically and virtually
+- These new venues are perhaps more attractive than traditional ones. 
+
+
+More importantly, Finding a purpose for oneself outside of traditional society 在傳統社會價值體系之外找到自我目標
+
+---
+
+## We can also put it under an old framework
+
+.orange[Push]: traditional schooling demands that individual student change themselves to adapt to the education system, not the other way around.
+
+
+.orange[Pull]: Forces outside of school are stronger; means through which these forces can compete for your attention multiplied.
+
+---
+
+## What has changed and what has not ?
+
+For .violet[Jaedong], playing video game is his way of getting an education. _What prices does he pay?_
+
+- He could not live like a "normal person" even though he didn't need go to school any more.
+
+
+- Repetitive and boring training is the only way to keep his performance up.
+
+
+- He has many adorable fans. But it is more work than enjoyment.
+
+
+- The .cyan[_game_] keeps changing: he must keep working to adapting to new rules and new features of the game.
+
+---
+
+class: inverse, middle, center
+
+## Does alternative form of "schooling" change the nature of learning or working?
+- Schooling might be out-of-date some time, but education is not.
+
+
+---
+
+## No easy way out: 10,000-hour rule
+
+![](http://www.thehiddenwhy.com/wp-content/uploads/2017/04/Ouliers.jpg)
+
+
+---
+
+## So what is to learn here?
+
+.red[The fact that these boys start to think about what do they really want in their life.]
+
+Psychologist William Damon defines a .green[purpose] as: _Purpose is a stable and generalized intention to accomplish something that is at the same time meaningful to the self and consequential for the world beyond the self._ <sup>.red[2]</sup>
+
+Prof. Damon thinks that a purpose provides .green[sustained motivational drive] in most circumstances.
+
+Indeed, we see in the documentary that the love for the games keep those aspiring players coming back.
+
+
+Younger generation is lured by things outside of school to find a purpose. But in many cases:
+
+### They want a purpose, but most of them are direction-less
+
+.footnote[[2] Damon, William. _The path to purpose: How young people find their calling in life._ Simon and Schuster, 2009.]
+
+---
+
+## Sociological research confirmed this
+
+In a study followed 7,000 American teenagers from 8th grade through high school, sociologists Barbara Schneider and David Stevenson found <sup>.red[3]</sup>:
+
+
+Contrary to popular images of hedonistc 縱情享樂, fun-crazed youth, most young people do have ambitions they would like to achieve. Yet few of them have any real prospect of realizing these ambitions 大部分年輕人確實都擁有想要去完成某些事情的夢想，但是其中僅有少數人對於如何實現夢想有任何想法.
+
+
+>"Most high school students have high ambitions but no clear life plans for reaching them." These young people are ".violet[motivated but directionless] "有動機但是沒方向. As a consequence, they become increasingly frustrated, depressed, and alienated.
+
+
+This is in my view, __the quintessential question your generation has to answer__:
+
+.footnote[[3] Schneider, Barbara L., and David Stevenson. _The ambitious generation: America's teenagers, motivated but directionless._ Yale University Press, 2000.]
+
+---
+class: center, middle
+
+## Given all the problems globalization has caused, we also experienced the highest living standard human being ever has. 
+
+## When the economic problem of .red[making a living] be solved. Under such conditions, .red[what will people live for]?
+
+---
+
+## Purpose can be different things (at least in the past)
+
+Job/Career
+
+Religion
+
+Devotion, more broadly defined:
+- Political ideal
+- Life philosophy / Aesthetics 美學理想 <sup>.red[4]</sup>
+- Hobby
+- etc
+
+.footnote[[4] There are people who can make a living on these: https://www.facebook.com/yitiaotv/]
+
+---
+
+### The bright side: It has never been easier for find your spark
+
+The fact that the long tail enables us to find someone is similar to ourselves from around the world. _You can learn almost everything with little cost._
+
+![:wscale 60%](http://www.thelongtail.com/conceptual.jpg)
+
+
+.footnote[
+Image credit: [Chris Anderson](http://www.longtail.com/about.html)
+]
+
+---
+
+## But how?
+
+.orange[Listen closely for your inner spark], then fan the flames
+
+.orange[Convey your own sense of purpose] and the meaning you derive from your work
+
+.orange[Take advantage of regular opportunities] to open a dialogue with someone you hold as a role model in your field
+
+.orange[Be open-minded]: no one should expect to find a life time goal at early 20s
+
+.orange[Look around] and find reachable goals
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JC82Il2cjqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+# .red[Summary]
+
+The ways we experience "learning" in general are quickly changing due to connectedness and opportunities beyond school.
+
+To develop any expertise, one still needs to put down lots of effort.
+
+A sense of purposefulness keeps one on track and motivated.
+
+The important thing is not to be discouraged or dispirited by schooling experience. 
