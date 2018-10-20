@@ -22,6 +22,9 @@ To view the slides as they were presented in class, visit:
 - 10/04 https://zhouyisu.github.io/globaled/session13
 - 10/08 https://zhouyisu.github.io/globaled/session14
 - 10/11 https://zhouyisu.github.io/globaled/session15
+- 10/15 Session 16: Video presentation production
+- 10/18 Session 17: Presentation & community feedbacks
+- 10/22 https://zhouyisu.github.io/globaled/session18
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
