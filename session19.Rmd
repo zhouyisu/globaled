@@ -30,10 +30,15 @@ To understand some theoretical explanation of the negative flow
 
 ---
 
+.pull-left[
 ![](https://img3.doubanio.com/view/photo/l/public/p2497092424.webp)
+]
 
+.pull-right[
 1. Singapore movie: I Not Stupid
 2. Youtube documentary: [Korea's mounting academic pressure](https://youtu.be/TXswlCa7dug)
+
+]
 
 ---
 
