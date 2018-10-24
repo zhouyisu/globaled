@@ -1,0 +1,325 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 19"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/10/25"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+
+# Shadows of education
+## Aims
+To examine the negative global flows of education
+
+To consider the impact of these flows on individuals
+
+To understand some theoretical explanation of the negative flow
+
+---
+
+![](https://img3.doubanio.com/view/photo/l/public/p2497092424.webp)
+
+1. Singapore movie: I Not Stupid
+2. Youtube documentary: [Korea's mounting academic pressure](https://youtu.be/TXswlCa7dug)
+
+---
+
+## Common theme
+
+Both engaged in .violet[competitive schooling]
+- .green[Streaming & tracking] in Singapore
+- After school tutoring (.green[shadow education]) in Korea
+
+Common consequence: Stressed-out students & family
+- Psychologically
+- Socially
+
+---
+
+## School system: Macao
+![:wscale 80%](./pic/flow-macau.png)
+
+---
+
+## School system: Singapore
+![:wscale 80%](./pic/flow-singapore.png)
+
+
+.footnote[Note: Singapore has recently reformed its school system: https://www.moe.gov.sg/education/education-system]
+
+---
+
+## School system: South Korea
+![](./pic/flow-korea.png)
+
+
+---
+
+## Nature of competitive schooling
+![](./pic/shadow1.png)
+
+
+---
+
+## The "Shadow" metaphor
+Shadow education is essentially more education. But there are several key characteristics:
+
+
+.orange[Supplementation] 補充: more education on top of common school experience
+
+
+.orange[Privateness] 私有: tutoring provided by private entrepreneurs and individuals for profit-making purposes.
+
+
+.orange[Academic] 學術性質: language subjects, mathematics, and other examinable subjects. 
+
+---
+
+## Shadow is almost everywhere
+
+In .violet[Hong Kong], a 2011/12 survey found that 53.8% of G9 students and 71.8% of G12 students were receiving private supplementary tutoring <sup>.red[1]</sup>.
+
+
+In .violet[India], a 2012 survey indicated that 73% of children aged 6-14 were receiving tutoring.
+
+
+In .violet[Kazakhstan], a 2005/06 survey of university students found 59.9% had receive tutoring during their last year of secondary school.
+
+
+In .violet[Vietnam], 2006 survey indicated 32% of primary students, 46% of lower secondary, and 63% of upper secondary students received tutoring.
+
+.footnote[[1] Source: https://cerc.edu.hku.hk/wp-content/uploads/Mono-10.pdf]
+
+---
+
+## Shadow is almost everywhere
+
+More detailed data from .violet[Singapore]:
+- 60% of high school, and 80% of primary school age students receive private tuition.
+
+
+- 40% of pre-schoolers receive private tuition.
+
+
+- Pre-schoolers, on average, attend two hours private tuition per week, while primary school aged children are attending, on average, at least three hours per week.
+
+
+- According to Singapore's Household Expenditure Survey, private tuition in Singapore is a SGD 1.1 billion dollar industry almost double the amount households spent in 2005 (SGD 650 million).
+
+---
+
+## The shadow spawns a big business
+![](./pic/shadow2.jpg)
+
+---
+
+## The shadow spawns a big business
+![](./pic/shadow3.jpg)
+
+.footnote[Source: _Fast earners: South Korea's millionaire, celebrity schoolteachers_]
+
+---
+
+## Negative consequences: student suicide
+
+![](./pic/singapore3.jpg)
+
+---
+
+## Negative consequences: Mental illness
+
+When children are being asked to achieve perfection in every level, their minds some times could not adapt very well <sup>.red[2]</sup>
+
+- When parents are highly intrusive 高度介入 and controlling, children are more likely to be .violet[self-critical] 自我批評, .violet[anxious] 焦慮, and .violet[depression] 憂鬱.
+
+
+- Intrusiveness also indicates to children that they are not good enough and that parents have to intervene in various domains of their lives. 
+
+
+- As a consequence, these children might become overly concerned about committing even the slightest errors.
+
+
+.footnote[[2] Hong et al., 2016, _Developmental Trajectories of Maladaptive Perfectionism in Middle Childhood._ http://onlinelibrary.wiley.com/doi/10.1111/jopy.12249/abstract]
+
+---
+
+## Student-teacher relationship is worse in East Asia
+
+![](./pic/tsrel.png)
+
+.footnote[Source: PISA 2009]
+
+---
+
+## Broad implications
+
+Impact on citizenship: societies divided along socioeconomic line (those who can and cannot afford more education at private expense)
+
+
+Education becomes a .red[commodity]:
+
+
+- A goods for sale
+
+- Students/parents are consumers and schools are service providers
+
+- Differentiating learning experiences
+
+
+Create a "losing culture": Only tiny fraction of successful winners but a large army of failed ones.
+
+
+Skew motivation for learning
+
+---
+
+class: inverse, middle, center
+# Why people want _more_ education?
+
+---
+
+## If it is so bad, why people still want it?
+
+Scholar Clark Sorensen pointed out: <sup>.red[3]</sup>
+- Unique parent-child relationship in Asia: parents expected to be cared for by their children in old age and .violet[filial piety] 孝道 by giving them a good funeral, worship them after death, is core of Korean ethics.
+
+
+- Reciprocal dependence 相互依賴: parents invest in children and expect payback in old age
+
+
+- Family's social status depends on children's academic/economic success
+
+.footnote[[3] Sorensen, C. W. (1994, February). Success and education in South Korea. _Comparative Education Review, 38_(1), 10-35. Retrieved from http://www.jstor.org/stable/1189287]
+
+---
+
+## The cultural explanation 文化解釋
+
+This leads to the very unique Asian family culture:
+- Parents are more likely to .violet[interfere] 干預 with children's learning and social choices rather than respect children's own will.
+
+
+- Parents have the time, and inclination, and the power to .violet[demand] that their children succeed in school. 
+
+
+- Inside schools, teachers request .violet[respect] 尊敬 and .violet[compliance] 順從 from students while convincing them that they care about them as human beings and have their best interests at heart.
+
+
+- .orange[It is the effort, not ability that matters to the parents and family]
+
+---
+class: middle, center
+
+## However, culture alone couldn't explain the zeal people have on education
+## It requires a powerful modern ally: .red[Social mobility for the individual]
+
+---
+
+background-image: url(https://i.kym-cdn.com/entries/icons/original/000/010/576/got.jpg)
+background-size: contain
+
+---
+
+### Why is Jon Snow the King of the North? Not Lord Baelish (aka Little Fingre)?
+
+![](http://i.imgur.com/qcVdXpC.jpg)
+
+---
+
+## In the Game of Thrones world (and other ancient worlds), .green[last name] matters a lot
+
+![](https://static.comicvine.com/uploads/original/11130/111304876/6424922-jon+and+ned.jpg)
+
+---
+
+## Social mobility in feudal societies
+
+![](http://xaviersjc.weebly.com/uploads/2/7/6/4/27641135/1398505558.jpg)
+
+
+---
+
+## Social mobility in modern societies
+
+![](https://i2.wp.com/cdn.static-economist.com/sites/default/files/images/print-edition/20140201_USD001_1.jpg)
+
+---
+
+## The sociological explanation 社會學解釋
+
+Sociologist Ralph Tuner proposed two types of social mobility 社會流動:
+- .orange[Contest mobility] 競爭流動模式 is like a sporting event in which many compete for a few recognized prizes. Applied to mobility, the contest norms means that victory by a person of moderate intelligence accomplished through the use of .violet[common sense, enterprise, daring, and successful risk-taking] is more appreciated than victory by .violet[the most intelligent] or .violet[the best educated].
+
+- .orange[Sponsored mobility] 庇護流動模式 ejects the pattern of the contest and favors a .violet[controlled] selection process. 
+	+ In this process the elite or their agents, deem to be the best qualified to judge merit, choose individuals for elite status who have .violet[the appropriate qualities]. 
+	+ Individual do not win or seize elite status; mobility is rather .violet[a process of sponsored induction to the elite].
+
+---
+
+## Rising idea of .green[meritocracy]
+
+Sponsored mobility model is closely linked with .green[meritocracy] 賢能主義/唯才主義, an idea that power/opportunity should be allocated based on ability and talent:
+
+
+- National elites design tests to select future talents
+
+
+- Selective tests are considered most fair for all
+
+
+Meritocracy is deeply rooted in Confucianism 儒家. Confucius himself cared deeply about how to design a system to pick the best suited to serve the country <sup>.red[4]</sup>:
+- This idea operates at societal level.
+
+
+- It requires every participants to do whatever they can to gain an competitive edge in a society where the State controls most of the resources.
+
+.footnote[[4] 李弘祺 （2012）。 .kt[學以為己: 傳統中國的教育。] 香港中文大學出版社。]
+
+---
+
+## When combining with close-knit family culture
+
+Your family's glory/destiny is tied to children's, as a result, families tend to .violet[_push_] the children very hard. 
+
+Goes hand-in-hand: families also tend to invest tremendous amount of resources in their children.
+
+At societal level, your social status is largely defined by: 1) the types of education received; 2) the relative status within each institution/department/major.
+
+Your merit is judged by: .cyan[talent; GPA; internship; study abroad; awards, etc]. All these things are some versions of .violet[_competition_].
+
+---
+
+class: middle, center
+
+# The shadow of education is really a consequence when education becomes universal & global.
+
+---
+
+# .red[Summary]
+
+Modern day competitive schooling is deeply rooted in culture, social relationships, and philosophy about individual & society.
+
+
+The shadow continues to grow: In a "school-ed society" (David Baker, Session 11), we are likely to see the spread of such education fever around the world.
+
+
+Is there a way out? It is possibly outside the education system itself.
+
+---
+
+## Resource:
+
+- Turner, R. H. (1960). Sponsored and contest mobility and the school system. _American Sociological Review, 25_(6), pp. 855-867.
