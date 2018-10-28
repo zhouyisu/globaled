@@ -25,11 +25,14 @@ To view the slides as they were presented in class, visit:
 - 10/15 Session 16: Video presentation production
 - 10/18 Session 17: Presentation & community feedbacks
 - 10/22 https://zhouyisu.github.io/globaled/session18
+- 10/25 https://zhouyisu.github.io/globaled/session19
+- 10/29 https://zhouyisu.github.io/globaled/session20
+- 11/01 Session 21: Writing exercise 3
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
 
-Alternatively, an automated approach is available by using [decktape.js](https://github.com/astefanutti/decktape). For simplicity, use docker version of `decktape`:
+Alternatively, an automated approach is available by using [decktape.js](https://github.com/astefanutti/decktape). For simplicity, use the `docker` version of `decktape`:
 
 ```
 # download & install docker here:
