@@ -48,6 +48,8 @@ Both engaged in .violet[competitive schooling]
 - .green[Streaming & tracking] in Singapore
 - After school tutoring (.green[shadow education]) in Korea
 
+--
+
 Common consequence: Stressed-out students & family
 - Psychologically
 - Socially
@@ -97,12 +99,15 @@ Shadow education is essentially more education. But there are several key charac
 
 In .violet[Hong Kong], a 2011/12 survey found that 53.8% of G9 students and 71.8% of G12 students were receiving private supplementary tutoring <sup>.red[1]</sup>.
 
+--
 
 In .violet[India], a 2012 survey indicated that 73% of children aged 6-14 were receiving tutoring.
 
+--
 
 In .violet[Kazakhstan], a 2005/06 survey of university students found 59.9% had receive tutoring during their last year of secondary school.
 
+--
 
 In .violet[Vietnam], 2006 survey indicated 32% of primary students, 46% of lower secondary, and 63% of upper secondary students received tutoring.
 
@@ -132,6 +137,8 @@ More detailed data from .violet[Singapore]:
 ---
 
 ## The shadow spawns a big business
+
+Does Mr. Cha's case remind us the .violet[uneveness] of globalized age?
 ![](./pic/shadow3.jpg)
 
 .footnote[Source: _Fast earners: South Korea's millionaire, celebrity schoolteachers_]
@@ -148,13 +155,13 @@ More detailed data from .violet[Singapore]:
 
 When children are being asked to achieve perfection in every level, their minds some times could not adapt very well <sup>.red[2]</sup>
 
-- When parents are highly intrusive 高度介入 and controlling, children are more likely to be .violet[self-critical] 自我批評, .violet[anxious] 焦慮, and .violet[depression] 憂鬱.
+--
 
+- When parents are highly intrusive 高度介入 and controlling, children are more likely to be .violet[self-critical] 自我批評, .violet[anxious] 焦慮, and .violet[depression] 憂鬱.
 
 - Intrusiveness also indicates to children that they are not good enough and that parents have to intervene in various domains of their lives. 
 
-
-- As a consequence, these children might become overly concerned about committing even the slightest errors.
+- As a consequence, these children might become .violet[overly concerned] about committing even the slightest errors.
 
 
 .footnote[[2] Hong et al., 2016, _Developmental Trajectories of Maladaptive Perfectionism in Middle Childhood._ http://onlinelibrary.wiley.com/doi/10.1111/jopy.12249/abstract]
@@ -173,9 +180,9 @@ When children are being asked to achieve perfection in every level, their minds 
 
 Impact on citizenship: societies divided along socioeconomic line (those who can and cannot afford more education at private expense)
 
+--
 
 Education becomes a .red[commodity]:
-
 
 - A goods for sale
 
@@ -183,9 +190,11 @@ Education becomes a .red[commodity]:
 
 - Differentiating learning experiences
 
+--
 
 Create a "losing culture": Only tiny fraction of successful winners but a large army of failed ones.
 
+--
 
 Skew motivation for learning
 
@@ -201,9 +210,9 @@ class: inverse, middle, center
 Scholar Clark Sorensen pointed out: <sup>.red[3]</sup>
 - Unique parent-child relationship in Asia: parents expected to be cared for by their children in old age and .violet[filial piety] 孝道 by giving them a good funeral, worship them after death, is core of Korean ethics.
 
+--
 
 - Reciprocal dependence 相互依賴: parents invest in children and expect payback in old age
-
 
 - Family's social status depends on children's academic/economic success
 
@@ -214,14 +223,18 @@ Scholar Clark Sorensen pointed out: <sup>.red[3]</sup>
 ## The cultural explanation 文化解釋
 
 This leads to the very unique Asian family culture:
+
 - Parents are more likely to .violet[interfere] 干預 with children's learning and social choices rather than respect children's own will.
 
+--
 
 - Parents have the time, and inclination, and the power to .violet[demand] that their children succeed in school. 
 
+--
 
 - Inside schools, teachers request .violet[respect] 尊敬 and .violet[compliance] 順從 from students while convincing them that they care about them as human beings and have their best interests at heart.
 
+--
 
 - .orange[It is the effort, not ability that matters to the parents and family]
 
@@ -229,6 +242,9 @@ This leads to the very unique Asian family culture:
 class: middle, center
 
 ## However, culture alone couldn't explain the zeal people have on education
+
+--
+
 ## It requires a powerful modern ally: .red[Social mobility for the individual]
 
 ---
@@ -266,9 +282,16 @@ background-size: contain
 ## The sociological explanation 社會學解釋
 
 Sociologist Ralph Tuner proposed two types of social mobility 社會流動:
+
+--
+
 - .orange[Contest mobility] 競爭流動模式 is like a sporting event in which many compete for a few recognized prizes. Applied to mobility, the contest norms means that victory by a person of moderate intelligence accomplished through the use of .violet[common sense, enterprise, daring, and successful risk-taking] is more appreciated than victory by .violet[the most intelligent] or .violet[the best educated].
 
+--
+
 - .orange[Sponsored mobility] 庇護流動模式 ejects the pattern of the contest and favors a .violet[controlled] selection process. 
+
+--
 	+ In this process the elite or their agents, deem to be the best qualified to judge merit, choose individuals for elite status who have .violet[the appropriate qualities]. 
 	+ Individual do not win or seize elite status; mobility is rather .violet[a process of sponsored induction to the elite].
 
@@ -284,6 +307,7 @@ Sponsored mobility model is closely linked with .green[meritocracy] 賢能主義
 
 - Selective tests are considered most fair for all
 
+--
 
 Meritocracy is deeply rooted in Confucianism 儒家. Confucius himself cared deeply about how to design a system to pick the best suited to serve the country <sup>.red[4]</sup>:
 - This idea operates at societal level.
@@ -291,7 +315,7 @@ Meritocracy is deeply rooted in Confucianism 儒家. Confucius himself cared dee
 
 - It requires every participants to do whatever they can to gain an competitive edge in a society where the State controls most of the resources.
 
-.footnote[[4] 李弘祺 （2012）。 .kt[學以為己: 傳統中國的教育。] 香港中文大學出版社。]
+.footnote[[4] 李弘祺（2012）。.kt[學以為己: 傳統中國的教育。]香港中文大學出版社。]
 
 ---
 
@@ -304,6 +328,9 @@ Goes hand-in-hand: families also tend to invest tremendous amount of resources i
 At societal level, your social status is largely defined by: 1) the types of education received; 2) the relative status within each institution/department/major.
 
 Your merit is judged by: .cyan[talent; GPA; internship; study abroad; awards, etc]. All these things are some versions of .violet[_competition_].
+
+The competition is smallest at lower ranking institutions, but intensifies at the top of each level.
+
 
 ---
 
