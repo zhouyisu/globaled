@@ -223,7 +223,7 @@ widgetframe::frameWidget(m, width='120%')
 
 ## Test reflects what is taught in school
 
-![:wscale 70%](./pic/chinausphysics.jpg)
+![:wscale 70%](https://gdurl.com/nOyn)
 
 .footnote[Source: http://science.sciencemag.org/content/323/5914/586]
 
