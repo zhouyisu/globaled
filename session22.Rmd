@@ -69,7 +69,7 @@ OECD's official account is typically __restrained__ 審慎. They are __balancing
 background-image: url(https://gdurl.com/H1fA)
 background-size: contain
 
-## Such obsession with ranking could not be backed up by the statistics
+## Obsession with ranking could not be backed up by statistics
 
 ---
 
@@ -203,6 +203,11 @@ PISA (math test reflecting skills level) score as a proxy for cognitive ability,
 
 ### .violet[A snapshot] of performance by .cyan[a particular group of] students on .brown[a particular school day].
 
+
+![](https://gdurl.com/D1C0)
+
+<!-- 
+
 ```{r HC,echo=FALSE}
 library(DiagrammeR)
 m <- mermaid("graph LR;
@@ -211,7 +216,9 @@ m <- mermaid("graph LR;
             C --> D(Human capital <br />as an adult) 
             D --> E{Economic <br /> growth}")
 widgetframe::frameWidget(m, width='120%')
-```
+``` 
+-->
+
 ---
 
 ## Test reflects what is taught in school
