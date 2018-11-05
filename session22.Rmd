@@ -33,18 +33,29 @@ Problemtize PISA
 ---
 
 ## Who is buying into PISA?
+
+--
+
 ### Multiple stakeholder 利益相關者、持份人
 
+--
+
 .violet[OECD:] Advance its view of future economy
+
+--
 
 .violet[The media] 新聞媒體
 - Talking points about national education, benchmarked against other nations
 - League table is easy to understand
 
+--
+
 .violet[National & regional governments]
 - to measure education quality 教育質量
 - to be part of global education community
 - to acquire technical expertise
+
+--
 
 .violet[Parents]
 - Care if their children are losing out
@@ -54,6 +65,8 @@ Problemtize PISA
 
 ## Changing narrative
 OECD's official account is typically __restrained__ 審慎. They are __balancing__ between selling PISA as an _innovative approach_ to understanding education and _overselling_ but couldn't live up to its promise: 
+
+--
 
 - PISA shows ".yellow[what's possible]" & ".yellow[similarities and differences in education around the world]"
 - To help government rethink their own approach to education to improve their schools: to ".yellow[give every student the best opportunity to achieve the best results]"
@@ -100,6 +113,11 @@ background-size: contain
 
 ---
 
+background-image: url(https://storage.googleapis.com/crossing-cms-cwg-tw/ckeditor/201803/ckeditor-5aa0b1392ac07.jpg)
+background-size: contain
+
+---
+
 ### Even some Chinese media is bashing Japan's education "failure"
 
 ![:wscale 90%](https://gdurl.com/x19C)
@@ -125,6 +143,8 @@ background-size: contain
 - curriclum (i.e. academic-focused curriculum)
 - classroom setting (i.e. large class sizes)
 - management approach (i.e. accountability of teachers 教師問責制)
+
+--
 
 __Assumption:__ transplant a new policy via rational policy planning
 
@@ -155,9 +175,15 @@ If we treat PISA as a stream in global flow, is it
 - Converging?
 - Hybridizing? 
 
+--
+
 Some say seeing like PISA is buying into a particular way of managing education: .orange[governed by the numbers].<sup>.red[4]</sup>. That is, we reduced our understanding of education into number/statistics.
 
+--
+
 Leads to global assimilation in direction of dominant groups: those who are able to produce and disecting the number,  
+
+--
 
 Some call PISA as a form of .orange[cultural imperialism]: Where one culture imposes itself (more or less consciously) and tends to destroy at least part of another culture
 
@@ -179,6 +205,7 @@ Subjective nature of cultural interpretation:
 
 .violet[__grobalization__] (grow + globalization): imperialist ambitions of nation-states, corporations, organizations, and the like and their desire to impose themselves on various geographic areas throught the world. _Their main interest is in seeing their power, influence, and in some cases profits grow_.
 
+--
 
 .violet[__glocalization__] (global + local): the interpretation of the global and local resulting in unique outcomes:
 - the world is growing more pluralistic
@@ -206,9 +233,11 @@ PISA (math test reflecting skills level) score as a proxy for cognitive ability,
 
 ![](https://gdurl.com/D1C0)
 
-<!-- 
+
+<!--
 
 ```{r HC,echo=FALSE}
+
 library(DiagrammeR)
 m <- mermaid("graph LR;
             A(PISA 15 yr old) --> B(Human Capital <br /> at High school) 
@@ -216,7 +245,7 @@ m <- mermaid("graph LR;
             C --> D(Human capital <br />as an adult) 
             D --> E{Economic <br /> growth}")
 widgetframe::frameWidget(m, width='120%')
-``` 
+```
 -->
 
 ---
@@ -318,13 +347,13 @@ We want answers, certainty, explanations. But how do we know we find one?:
 
 ## Best of all? Everyone can get their piece of the story
 
-Media: We know who is doing the best and who is in crisis!
+__Media:__ We know who is doing the best and who is in crisis!
 
-Government: we have run a _scientific study_, and concluded that our education system is good/not good.
+__Government__: we have run a _scientific study_, and concluded that our education system is good/not good.
 
-Government officials: Look at the authorities behind us! I am not lying
+__Government officials__: Look at the authorities behind us! I am not lying
 
-School principals: Come to our school
+__School principals__: Come to our school
 
 
 ---
@@ -346,4 +375,7 @@ Ritzer & Dean: p.215-216; p.226-227; p.231-233
 
 More discussion on PISA:
 - http://www.freshedpodcast.com/tag/global-learning-metrics/ 9-episode discussion from different perspectives.
+
+Global resistance to PISA:
+- https://www.theguardian.com/business/2014/may/06/oecd-pisa-tests-education-joy-of-learning 
 
