@@ -132,7 +132,7 @@ background-size: contain
 
 ---
 
-background-image: url(./pic/pisa-alberta.png)
+background-image: url(https://gdurl.com/i8Tg)
 background-size: contain
 
 ---
@@ -154,12 +154,12 @@ __Perceived benefit__: increase in PISA test scores, which implies pareparing yo
 ---
 ## When you believe solving a problem is linear
 
-![:wscale 90%](./pic/policy1.jpg)
+![:wscale 90%](https://gdurl.com/Freh)
 
 ---
 
 
-background-image: url(./pic/policy2.jpg)
+background-image: url(https://gdurl.com/q-de)
 background-size: contain
 
 ### In reality
