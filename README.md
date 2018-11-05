@@ -30,6 +30,11 @@ To view the slides as they were presented in class, visit:
 - 11/01 Session 21: Writing exercise 3
 - 11/05 https://zhouyisu.github.io/globaled/session22
 - 11/08 https://zhouyisu.github.io/globaled/session23
+- 11/12 Session 24: Final project consultation
+- 11/15 https://zhouyisu.github.io/globaled/session25
+- 11/19 https://zhouyisu.github.io/globaled/session26
+- 11/22 https://zhouyisu.github.io/globaled/session27
+- 11/26 Final project
 
 ## Print slides
 To print the handouts, use google Chrome's print function (e.g. `Ctrl + p` or `CMD + p`). Firefox or other browsers are not supported. 
