@@ -1,0 +1,343 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 25"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/11/15"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+## University's position in globalization
+
+Universities are the .violet[champion] 捍衛者 and .violet[beneficiary] 受益人 of globalization, benefiting from:
+
+- .orange[global flow of talents]
+	+ Researchers
+	+ Students
+- .orange[global flow of technology]
+- .orange[global flow of capital]
+
+_University is major force shaping globalization and one of its greatest invention._
+
+---
+
+class: inverse, middle, center
+
+## Among all public institutions (hospital, police force, judicial branch, administrative branch, etc), university is the most thoroughly globalized one.
+
+---
+
+## Why is this case?
+
+This process of globalization within the university is closely aligned with .violet[modernization project] of the nation state <sup>.red[1]</sup> 
+
+For nation states to develop in .green[science & technology] as well as national culture (via .green[literature and history]), they need a public institution to produce and spread that knowledge:
+
+- For example in 1900, the University of Tokyo featured nation-state-centric departments of Technology of Explosives and Technology of Arms. 
+
+- Around the same time, social sciences such as sociology, political science, development economics also appeared in the universities.
+
+.footnote[[1] Frank, David John, and John W. Meyer. "University expansion and the knowledge society." _Theory and society_ 36, no. 4 (2007): 287-311.]
+
+---
+
+## Universities is more than just serving national goals
+
+After World War II (more prominently, after the Cold Ward), universities started to shift its mode of operation toward .orange[universalistic values] and continued to grow by <sup>.red[2]</sup>:
+
+- extending the natural and social contexts of university activities out beyond competitive nation-states to a .orange[unified world]
+
+- scaling up the presumed engines and beneficiaries of university activities from national citizenries to .orange[global humanity]
+
+- breaking down the corporatist elements of society – church, family, and nation when constructed as primordially rooted in race, religion, and history – .orange[into individuals conceived as extraordinarily agentic social actors] 
+
+As a result, universities around the world fully embraced a global and individual-based society imagery. 
+
+.footnote[[2] Meyer, John W., and Ronald L. Jepperson. "The ‘actors’ of modern society: The cultural construction of social agency." _Sociological theory 18_, no. 1 (2000): 100-120.]
+
+---
+
+class: middle
+
+## University's mission moved toward producing universal knowledge & value
+## Knowledge of what? Of .red[Society and Nature]
+- Knowledge refer to __a body of universalized principles__, which consists of the _understanding of cultural materials_ organized around supralocal (beyond local) principals, as well as _skills in practice_ 
+- To achieve this mission, universities are more:
+  + Meritocratic
+  + Requires talents from everywhere of the world
+  + Extensive resources
+  + (Occasionally break away) from national demands
+
+---
+## Globalized faculty
+
+![](https://kn.thinkpost.in/sites/default/files/images/bondandeinstein.jpeg)
+
+---
+
+## Globalized student body: U.S.A as an example
+
+![](https://gdurl.com/pLeo)
+
+---
+
+background-image: url(https://si.wsj.net/public/resources/images/P1-BW733A_CHICA_16U_20160314114206.jpg)
+background-size: contain
+
+---
+
+## Globalized research collaboration: CRISPR-CAS 9
+
+![](http://broadfoundationreport.org/wp-content/uploads/2016/01/DSC_7179.jpg)
+
+---
+
+background-image: url(http://mcgovern.mit.edu/news/wp-content/uploads/2016/02/0221_8083.jpg)
+background-size: contain
+
+---
+
+## Globalized study program: Schwarzman Scholars Program
+
+.cyan[100 million USD] donated by Stephen A. Schwarzman, co-founder and chairman of the asset management firm Blackstone Group to Tsinghua University in Beijing.
+
+>Schwarzman Scholars 蘇世民學者 was conceptualized in order to help future leaders better understand China, providing them with the firsthand knowledge and relationships necessary to foster .violet[collaboration] and .violet[cooperation] between nations. Steven Schwarzman believed it was necessary for future leaders to better understand China's history, culture, economy and motivations. By fostering greater cooperation between the East and West, he hopes to forge future geopolitical stability.
+
+_Does this sounds globalization to you?_
+
+---
+
+background-image: url(https://si.wsj.net/public/resources/images/AI-CK940A_HKGIV_9U_20140922113612.jpg)
+background-size: contain
+
+
+---
+
+## Global campus: Spreading knowledge creation
+
+![](https://image.slidesharecdn.com/graduateengineeringnyuschoolinformationwebinar-161012163537/95/graduate-engineering-nyu-school-information-webinar-6-638.jpg)
+
+Other examples: University of Liverpool (Suzhou), University of Nottingham (Ningbo) have China campus. Duke University of USA has a Kunshan campus. 
+
+---
+
+## Just like other global phenomenon we discussed, the impact of univerisities going global is not even
+
+It is true that universities and colleges as a whole benefited far greater than other social institutions. But the benefits are certainly not distributed evenly:
+
+- Global campus are only opened by those "higher ranking" or "elite" universities.
+
+- Research-oriented universities are more globalized than teaching-oriented universities
+
+---
+
+## University endowment 大學基金
+
+![:wscale 70%](https://gdurl.com/G91N)
+
+
+---
+
+## University endowment 大學基金
+
+![:wscale 90%](https://gdurl.com/yHwh)
+
+.footnote[Image credit: http://www.cuaa.net/paihang/news/news.jsp?information_id=133445]
+
+---
+
+## Shadows of globalized universities
+
+.pull-left[![](https://www.chronicle.com//img/photos/biz/photo_79138_portrait_325x488.jpg) ]
+
+.pull-right[ Knowledge production also has a dark side: 1) people try to buy their way out of universities; 2) to succeed with minimum efforts:
+
+>colleges are built to reward the rich and to forgive them their laziness. Let's be honest: The successful among us are not always the best and the brightest, and certainly not the most ethical. My favorite customers are those with an unlimited supply of money and no shortage of instructions on how they would like to see their work executed.
+
+]
+
+---
+
+## The Shadow can spread
+
+![:wscale 80%](https://gdurl.com/i_8C)
+
+.footnote[Source: http://www.channelnewsasia.com/news/singapore/buying-your-way-to-a-degree-singapore-based-ghostwriting-9029638]
+
+---
+
+### The shadow can even be out-sourced
+
+![:wscale 80%](https://gdurl.com/r2Jh)
+
+---
+
+### With sophisticated division-of-labor
+
+![](https://gdurl.com/125u)
+
+---
+
+## Globalization is not simply a destination, but also brought tension
+
+Like many other global issues, people ask .red[if universities are increasingly global/universal, are they still locally relevant?]
+
+To answer this question, we can look at from 4 angles
+
+- Teaching or research?
+- Looking inward or outward?
+- Quality or quantity?
+- Egalitarian or hierarchical?  
+
+
+---
+
+## Teaching or research?
+Most universities have a fixed number of faculty members. Their role is split into two categories:
+
+.orange[Research]
+- Resource intensive (money, technology, man power)
+- Does not require day-to-day interaction with students
+- Output can be quantified and measured
+
+.orange[Teaching]
+- Nature of teaching is ambiguous. (i.e. How do you reach a universally accepted standard of good teaching?) Teaching is culturally embedded
+- Good teaching depends on the cooperation of students as much as the other way around
+- Teaching outcome is unpredictable.
+- Require group efforts of faculties
+
+---
+
+## An institution of knowledge production
+
+Most universities pride themselves as an knowledge creators, .violet[but not all knowledge is created equally]:
+- Knowledge does not necessarily have practical meaning
+- Knowledge does not necessarily have local meaning
+- Knowledge does not necessarily have instant meaning
+
+Universities traditionally embraced a particular model of evaluation: .orange[peer review] 同行評議，in which any individual faculty member's contribution is assessed by his/her peers.
+
+- This process is slow
+- Requires a community of committed researchers (to be impartial, fair, critical)
+
+But increasingly, universities are caught in another model of evaluation:
+
+---
+
+## Teaching & research are valued differently by the outside world: University rankings
+
+Some knowledge suddenly has much higher exchange value
+
+![](https://beta.gov.scot/binaries/content/gallery/publications/publication/2018/08/commissioner-fair-access-discussion-paper-league-tables/00527248.gif)
+
+---
+
+## Looking inward or outward?
+
+To whom do universities serve?
+
+The rewards are very different depending on where you look.
+- Global recognition?
+- A name card for the city?
+- Achievement for someone's career?
+
+Stakeholders could be .violet[self-serving] 自利 or .violet[altruistic] 利他, that's why we need
+- Visionary leader to steer the ship
+- Democratic control for: 1) a voice for all interested groups; 2) checks & balance 分權制衡
+
+---
+
+## Quality or Quantity?
+For any institution to develop, we need some kind of .violet[metric] 標準 to understand each participant's contribution.
+
+Difficult to measure or evaluate the quality of each piece of work
+- Who is to judge what account for as "high quality" research?
+- Who is to judge what account for "effective teaching"?
+- Where do standards coming from? Develop natively or import externally?
+
+---
+
+## Quality or Quantity?
+International ranking values quantity:
+- Number of publications
+- Number of patents
+- Number of citations
+- Number of students enrolled in online courses
+- etc
+
+
+Padding up the numbers: .violet[did you find any similarity compared to PISA]? 
+
+Will there be smart people to game the system?
+
+
+---
+
+## Egalitarianism 平等 or Hierarchy 階層化?
+University was relatively flat organization but globalized institution need to create levels of .orange[differentiation].
+
+.violet[Incentivize faculty members:]
+
+- Lecture
+- Assistant Professors
+- Associate Professors
+- Full professors
+- Distinguished professors
+- Chair professors
+
+
+.violet[Catering to students:]
+
+- Honor's college
+- Residential college
+- Exchange program
+- Internship opportunities
+
+---
+
+background-image: url(https://gdurl.com/ZXIp)
+background-size: contain
+
+---
+
+## University, like many other institutions caught up in globalization, is searching for answers
+
+For many people, particularly those who are comfortable in a .violet[parochial culture] <sup>.red[1]</sup>, it is not easy question:
+
+- Global & world-class?
+- Locally relevant?
+- Can they balance between the two?
+- Who should control the universities?
+
+One thing is clear: there is no avoiding these questions. We also cannot just cherry-picking: when you push for one direction, it also pushes back. 
+
+
+.footnote[[1] Parochial: focusing only on small sections of issues rather than wider context.]
+
+
+---
+
+## .red[Summary]
+
+To quote Frank & Meyer (2007): "Over the last two centuries, a main social-scientific vision of societal development stresses differentiation as modern society’s key tendency":
+
+- From this perspective, expanded contemporary education is a functional response to increased operational complexity, training young people to meet the demands of ever more intricate roles. 
+- Universities' global rise is based on this universalistic foundations of contemporary society.
+- Universities are tasked to nurture young talents with knowledge, and enhanced command of learning and authority.
+- Pedagogy shifts to empowerment rather than discipline and to participation rather than imitation.
+
+University has become a global institution, but not a universally equal one:
+- Globalization has also brought inequality, differentiation, and hierarchy into universities. 
+- Creates internal frictions
+- Cast doubts on the relationship between universities with the local and the national.
