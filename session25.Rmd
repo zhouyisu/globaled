@@ -31,10 +31,14 @@ To understand university's internal dynamics
 
 According to one ranking metric, there are more than 28,000 universities of all kinds in the world <sup>.red[1]</sup>.
 
+--
+
 Practically all nation states have universities:
 
 - Even in the tiniest  countries: National University of Samoa serves a population of about 175,000
 - Or the poorest: National University of East Timor operates in a country with a GDP/capita of around $400
+
+--
 
 Student enrollment have also risen:
 
@@ -54,6 +58,8 @@ Student enrollment have also risen:
 
 Universities are the .violet[champion] 捍衛者 and .violet[beneficiary] 受益人 of globalization, benefiting from:
 
+--
+
 - .orange[global flow of talents]
 	+ Researchers
 	+ Students
@@ -70,11 +76,15 @@ class: inverse, middle, center
 
 ---
 
-## Why is this case?
+## Why is this the case?
 
 This process of globalization within the university is closely aligned with .violet[modernization project] of the nation state <sup>.red[2]</sup>. 
 
+--
+
 For nation states to develop in .green[science & technology] as well as national culture (via .green[literature and history]), they need a institution to produce and spread that knowledge:
+
+--
 
 - For example in 1900, the University of Tokyo featured nation-state-centric departments of Technology of Explosives and Technology of Arms. 
 
@@ -88,11 +98,15 @@ For nation states to develop in .green[science & technology] as well as national
 
 After World War II (more prominently, after the Cold Ward), universities started to shift its mode of operation toward .violet[universalistic values] and continued to grow by <sup>.red[3]</sup>:
 
+--
+
 - extending the natural and social contexts of university activities out beyond competitive nation-states to a .orange[unified world]
 
 - scaling up the presumed engines and beneficiaries of university activities from national citizenries to .orange[global humanity]
 
 - breaking down the corporatist elements of society – church, family, and nation when constructed as primordially rooted in race, religion, and history – .orange[into individuals conceived as extraordinarily social actors] 
+
+--
 
 .violet[As a result, universities around the world fully embraced a global and individual-based society imaginary.] 
 
@@ -103,7 +117,13 @@ After World War II (more prominently, after the Cold Ward), universities started
 class: middle
 
 ## University's mission moved toward producing universal knowledge & value
+
+--
+
 ## Knowledge of what? Of .red[Society and Nature]
+
+--
+
 - Knowledge refer to __a body of universalized principles__, which consists of the _understanding of cultural materials_ organized around supralocal (beyond local) principals, as well as _skills in practice_ 
 - To achieve this mission, universities are more:
   + Meritocratic
@@ -166,6 +186,8 @@ Other examples: University of Liverpool (Suzhou), University of Nottingham (Ning
 
 ## Just like other global phenomenon we discussed, the impact of univerisities going global is not even
 
+--
+
 It is true that universities and colleges as a whole benefited far greater than other social institutions. But the benefits are certainly not distributed evenly:
 
 - Global campus are only opened by those "higher ranking" or "elite" universities.
@@ -225,6 +247,8 @@ It is true that universities and colleges as a whole benefited far greater than 
 
 Like many other global issues, people ask .red[if universities are increasingly global/universal, are they still locally relevant?]
 
+--
+
 To answer this question, we can look at from 4 angles
 
 - Teaching or research?
@@ -238,10 +262,14 @@ To answer this question, we can look at from 4 angles
 ## Teaching or research?
 Most universities have a fixed number of faculty members. Their role is split into two categories:
 
+--
+
 .orange[Research]
 - Resource intensive (money, technology, man power)
 - Does not require day-to-day interaction with students
 - Output can be quantified and measured
+
+--
 
 .orange[Teaching]
 - Nature of teaching is ambiguous. (i.e. How do you reach a universally accepted standard of good teaching?) Teaching is culturally embedded
@@ -258,10 +286,14 @@ Most universities pride themselves as an knowledge creators, .violet[but not all
 - Knowledge does not necessarily have local meaning
 - Knowledge does not necessarily have instant meaning
 
+--
+
 Universities traditionally embraced a particular model of evaluation: .orange[peer review] 同行評議，in which any individual faculty member's contribution is assessed by his/her peers.
 
 - This process is slow
 - Requires a community of committed researchers (to be impartial, fair, critical)
+
+--
 
 But increasingly, universities are caught in another model of evaluation:
 
@@ -284,6 +316,8 @@ The rewards are very different depending on where you look.
 - A name card for the city?
 - Achievement for someone's career?
 
+--
+
 Stakeholders could be .violet[self-serving] 自利 or .violet[altruistic] 利他, that's why we need
 - Visionary leader to steer the ship
 - Democratic control for: 1) a voice for all interested groups; 2) checks & balance 分權制衡
@@ -292,6 +326,8 @@ Stakeholders could be .violet[self-serving] 自利 or .violet[altruistic] 利他
 
 ## Quality or Quantity?
 For any institution to develop, we need some kind of .violet[metric] 標準 to understand each participant's contribution.
+
+--
 
 Difficult to measure or evaluate the quality of each piece of work
 - Who is to judge what account for as "high quality" research?
@@ -308,6 +344,7 @@ International ranking values quantity:
 - Number of students enrolled in online courses
 - etc
 
+--
 
 Padding up the numbers: .violet[did you find any similarity compared to PISA]? 
 
@@ -319,6 +356,8 @@ Will there be smart people to game the system?
 ## Egalitarianism 平等 or Hierarchy 階層化?
 University was relatively flat organization but globalized institution need to create levels of .orange[differentiation].
 
+--
+
 .violet[Incentivize faculty members:]
 
 - Lecture
@@ -328,6 +367,7 @@ University was relatively flat organization but globalized institution need to c
 - Distinguished professors
 - Chair professors
 
+--
 
 .violet[Catering to students:]
 
@@ -352,6 +392,8 @@ For many people, particularly those who are comfortable in a .violet[parochial c
 - Can they balance between the two?
 - Who should control the universities?
 
+--
+
 One thing is clear: there is no avoiding these questions. We also cannot just cherry-picking: when you push for one direction, it also pushes back. 
 
 
@@ -364,10 +406,23 @@ One thing is clear: there is no avoiding these questions. We also cannot just ch
 
 To quote Frank & Meyer (2007): "Over the last two centuries, a main social-scientific vision of societal development stresses differentiation as modern society’s key tendency":
 
+--
+
 - From this perspective, expanded contemporary education is a functional response to increased operational complexity, training young people to meet the demands of ever more intricate roles. 
+
+--
+
 - Universities' global rise is based on this universalistic foundations of contemporary society.
+
+--
+
 - Universities are tasked to nurture young talents with knowledge, and enhanced command of learning and authority.
+
+--
+
 - Pedagogy shifts to empowerment rather than discipline and to participation rather than imitation.
+
+--
 
 University has become a global institution, but not a universally equal one:
 - Globalization has also brought inequality, differentiation, and hierarchy into universities. 
