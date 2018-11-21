@@ -1,0 +1,273 @@
+---
+title: "Education & Globalization"
+subtitle: "Session 27"
+author: "Dr. Zhou Yisu 周憶粟"
+date: "2018/11/22"
+output:
+  xaringan::moon_reader:
+    css: [robot, robot-fonts, robot-extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: [top, left, inverse]
+      beforeInit: "wscale.js"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Where do we come from?
+
+According to Ritzer & Dean:
+
+>globalization is a transplanetary .orange[process] or set of .orange[processes] involving increasing .orange[liquidity] and the growing multidirectional .orange[flows] of people, objects, places, and information as well as the .orange[structures] they encounter and create that are .orange[barriers] to, or .orange[expedite], those flows...
+
+Globalization is .orange[dynamic] 動態, always creates new .orange[linkages] 鏈接.
+
+???
+
+Depending on how one counts, this process has been going on for for hundreds or thousand of years. In our sensible time, since world war II. 
+
+
+---
+
+## Globalization is not new
+
+- Various forms of ".red[flow]" exist throughout human history (i.e. the Greatest Walk; Tang China)
+- Facilitated by trade, exploration, conqure, and other human behaviors. 
+- It is a process in the making (.orange[advancement & setback])
+- It creates extreme .orange[unevenness] (全球化的果實和風險的分配極端不均衡)
+
+### Today's globalization is inherited from the past
+- Imperialism & Colonialism legacy 
+- Advancement of the West and the rise of the East
+- Creation of the nation state as the main actor, an imagined community. But also threatened by the globalization process.
+- A world system built under America's image but encounter increasing challenges
+
+---
+
+# Where are we now?
+### Big Picture: China rising & West stagnating
+
+![](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F3495fc40-6ca8-11e7-bfeb-33fe0c5b7eaa?source=next&fit=scale-down&width=700)
+
+---
+
+## Big Picture: China rising
+
+It is not the first successful case under globalization:
+
+- Japan in 1960s
+- South Korea, Hong Kong, and Taiwan in 1970s
+- Singapore in 1980s
+
+What makes China's rise special?
+ 
+- Not being incorporated into the American system (some times even defy it)
+- Its sheer size of population, market size, and wealth. Unprecedented.
+- See  Chu Yun-han (朱雲漢)'s talk in the resource section
+
+
+---
+
+## Consequences: Brazil
+
+![](https://gdurl.com/ipdj)
+
+.footnote[Source: Financial Times https://www.ft.com/content/1d803686-c48e-11e7-b2bb-322b2cb39656]
+
+---
+
+## Consequences: Australia
+China is interested in:    
+- [farmlands](https://www.npr.org/sections/thesalt/2017/06/20/532915180/why-is-china-snatching-up-australian-farmland)
+- [houses (mostly as assest)](http://www.abc.net.au/news/2017-10-06/impact-of-chinese-buyers-on-australian-house-prices/9021938)
+- [raw materials, such as minerals, logs, coals](https://www.bloomberg.com/news/special-reports/china-australia-investment)
+- [education](http://www.smh.com.au/business/china/australia-playing-a-big-role-in-chinas-economic-revolution-20160327-gnrzo2.html)
+
+![](http://ichef-1.bbci.co.uk/news/624/cpsprodpb/A0C4/production/_83965114_anti-foreigninvestmentgetty.jpg)
+
+---
+## What does this mean?
+
+.violet[Are we going to follow the West's footstep? Repeat the same mistakes?]
+
+- Reap the benefits by a few
+- Leaving the costs to the mass
+
+.violet[Is there any alternatives we could provide for the rest of the developing world? (i.e. the bottom billion)]
+
+- More equal
+- More environment friendly
+- Providing more opportunity to the mass
+
+Many of you will go abroad: work, study, live. You will be in a different position as you are here today. .violet[How will you act?]
+
+???
+
+When facing admiration, challenge, even discrimination
+
+---
+# Where do we go from here?
+## Position yourself
+
+International relation scholar Simon Shen (沈旭暉, CUHK) suggested we think from these three levels:
+
+- __Local__ 本土 情懷
+- __National__ 國家 關懷
+- __International__ 國際 關注
+
+
+What makes Macao successful? Taking an analogy: A unique combination of .orange[Macao identity] 澳門的身份, .orange[contribution to the nation] 對國家的貢獻, .orange[international relevance] 同世界的接軌
+
+---
+
+## Keywords
+    
+.orange[Glocal] & .orange[Grobal]
+
+- Ideas travel 
+- Even the same idea will be interpreted by people at different levels (international, national, local)
+- The result is typically a .violet[hybridization] or contested by various forces
+
+
+.orange[Slash Identity] 斜槓青年: 
+
+- I am a father/teacher/researcher/geek/citizen
+- Transition among multiple identities 
+	+ Consume
+	+ Socialize
+	+ Create
+	+ Work
+- .violet[One in all and all in one]: each demands different responsibility and efforts
+
+---
+
+## Fluidity 流動性 & Ambiguity 模糊性
+
+Geographic location tends to create space and define boundry but so are our actions.  
+![](http://images.chinahighlights.com/allpicture/2015/04/b7c9eca43b6c482ab6c3ee59.jpg)
+
+---
+
+## What would you do?
+
+These questions are unavoidable:
+
+- How would you respond to the unevenness?
+- Would you take advantage of globalization?
+- How would you prepare for the negative impact?
+
+The dynamics between .orange[Structure] 結構 - .orange[Agency] 能動:
+
+- Transformation 改變
+- Resistance 抵抗
+- Connectedness 鏈接
+
+---
+
+## Some advice
+
+- .violet[Learn different things]: They will make your life more fulfilling
+
+- .violet[Master one thing]: By and large, "knowing how" matters more than "knowing what" in work
+
+- .violet[You don't have to be a genius to do creative work]: Individual smart/talent is overrated
+
+- .violet[Learn, unlearn, and relearn]: This is how you deal with unpredictability. The world and your career are unpredictable, so you need periodically recreate yourself.
+
+- .violet[You are never going to catch up, and neither is anyone else]
+
+---
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpearlsofrawnerdism%2Fphotos%2Fa.234743463361685%2F1140907572745265%2F%3Ftype%3D3&width=500" width="500" height="595" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+---
+
+background-image: url(https://gdurl.com/ShDU)
+background-size: contain
+
+---
+
+## Have a peace of mind, think of wave
+
+<iframe src="https://giphy.com/embed/106B1UDPOZ79u0" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-106B1UDPOZ79u0">via GIPHY</a></p>
+
+Some things comes fast, others don't. We live in the moment of this era of great technological advancement and innovation. But don't let the rapid change fool you: The basic science framework (quantum mechanics, plate tectonics, evolutionary theory, or cultural relativism), all developed since 1870s - 1950; the WWW is created only 1989; WeChat is created in 2011. 
+
+---
+
+class: reverse, center, middle
+
+## In a time of great changes, learn to live with constraints but seek freedom & truth.
+
+---
+background-image: url(https://mfas3.s3.amazonaws.com/objects/SC226475.jpg)
+background-size: contain
+
+class: center, top
+## How? You need to see what others don't see
+
+.footnote[
+Image credit: [Paul Gauguin 保羅·高更, 1897, Museum of Fine Arts Boston](https://www.mfa.org/collections/object/where-do-we-come-from-what-are-we-where-are-we-going-32558)]
+
+---
+
+"Yes, it's easy enough to look at the painting and to come up with things to think about it. But how much richer they are when you know already the many different traditions of imagining the visual world, when you can understand the detailed references the painter made to those traditions, .cyan[when your immediate knowledge of the painting's social and cultural context makes you literally see dozens of things that aren't there if you don't know those contexts]. It's the same argument." 
+
+
+"The experience becomes “bigger” because you are educated. Not merely in the sense that you can look at the painting longer without being bored, .cyan[but also in that within a single look you will see more]. And note that education doesn't lie simply in knowing the whole of the dead list of facts and contexts of who taught whom and which style was which, .cyan[but rather in taking such facts as you do know and playing with them and the painting]."
+
+
+.footnote[Source: Andrew Abbott/University of Chicago (https://aims.uchicago.edu/node/79)]
+
+---
+
+class: blackbg, center
+
+.pull-left[
+
+![](https://i.blogs.es/e5273c/uklbymwk-4x5-600dpi/450_1000.jpg)
+
+]
+
+.pull-right[
+
+### .yellow["Truth is a matter of the imagination."] 
+
+from _The left hand of darkness_ (1969) by Ursula Le Guin (1929-2018)
+
+.kt[“.yellow[真實攸關想象]”] ，出自 娥蘇拉‧勒瑰恩『黑暗的左手』(1969)
+
+]
+
+
+???
+
+Le Guin: "Truth is a matter of the imagination. The soundest fact may fail or prevail in the style of its telling: like that singular organic jewel of our seas, which grows brighter as one woman wears it and, worn by another, dulls and goes to dust. Facts are no more solid, coherent, round, and real than pearls are.
+
+Abbott: "This flash of enlightenment, is the emergence of the habit of looking for new meanings, of seeking out new connections, of investing experience with complexity or extension that makes it richer and longer, even though it remains anchored in some local bit of both social space and social time."
+
+---
+
+## Important dates
+
+Student feedback quesionnaire: [now until 30/11] (https://isw.umac.mo/siweb)
+
+Submission period of final project: .green[26/11 - 30/11 (23:55)]
+
+Project display & comment: .green[now until 05/12 23:59]
+
+Submitting any previous assignments/quiz/comments: .green[until 24/11 23:59]
+
+---
+
+## Resources
+
+- Martin Wolf, Financial Times, [_Seven charts that show how the developed world is losing its edge_](https://www.ft.com/content/1c7270d2-6ae4-11e7-b9c7-15af748b60d0)
+- Political scientist Chu Yun-han (朱雲漢) from National Taiwan University /講題：逆全球化潮流與全球治理改革的新動力
+	+  Online：https://www.youtube.com/watch?v=rB6HqNTyqaM
+	+  Transcript：http://www.guancha.cn/ZhuYunHan/2017_11_29_436942_s.shtml
