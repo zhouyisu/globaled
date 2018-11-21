@@ -13,7 +13,7 @@ To view the slides as they were presented in class, visit:
 - 09/06 https://zhouyisu.github.io/globaled/session05
 - 09/10 https://zhouyisu.github.io/globaled/session06
 - 09/13 https://zhouyisu.github.io/globaled/session07
-- 09/17 Typhoon Mangkhut, class cancelled
+- 09/17 Typhoon Mangkhut, class moved to online
 - 09/20 https://zhouyisu.github.io/globaled/session08 (rescheduled)
 - 09/24 https://zhouyisu.github.io/globaled/session09 (rescheduled: online lecture)
 - 09/24 Session 10: Consultation, no slides
